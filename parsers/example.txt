@@ -1,0 +1,1377 @@
+<!DOCTYPE html><html lang="es-MX"><head><style>.gm-style-moc{background-color:rgba(0,0,0,.45);pointer-events:none;text-align:center;-webkit-transition:opacity ease-in-out;transition:opacity ease-in-out}.gm-style-mot{color:white;font-family:Roboto,Arial,sans-serif;font-size:22px;margin:0;position:relative;top:50%;transform:translateY(-50%);-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%)}sentinel{}
+</style><style>.gm-style img{max-width: none;}.gm-style {font: 400 11px Roboto, Arial, sans-serif; text-decoration: none;}</style>
+
+<script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=AW-419651680&amp;l=dataLayer&amp;cx=c"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-94GCJ4Q0CE&amp;l=dataLayer&amp;cx=c"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-FMK4KRGVF2&amp;l=dataLayer&amp;cx=c"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PLSH6CC"></script><script>
+window.onload = function() {
+
+        new SigmaChat({
+
+          headline: '¡Bienvenido al chat de Dentalia! <br> Por favor proporcióname los siguientes datos para brindarte una mejor atención',
+
+          logo: {src: 'https://sigmadentalia.nuvetoapps.com.br/dist/img/logo2020.png', height: '100px'},
+
+          icon: {src: 'https://sigmadentalia.nuvetoapps.com.br/dist/img/logo-dentalia.png', height: '50px'},
+
+          links: [],
+
+          phone: { code: '+52', pattern:"[0-9]{2,3} [0-9]{4} [0-9]{4}", title: "Formato valido: 99 9999 9999 | 999 9999 9999", maskOptions: { mask: [{mask:'00 0000 0000'}, {mask: '000 0000 0000'}]}},
+
+          fields: [
+
+          ],
+
+          lang: {url: 'es', assistance: 'Dentalia'}
+
+        });
+
+    };
+
+</script>
+
+
+
+<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<meta name="robots" content="max-image-preview:large">
+
+	<!-- This site is optimized with the Yoast SEO Premium plugin v14.8 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>| Clínicas Dentales | Mejores Clinicas Dentales | ¡Agenda Ahora!</title>
+	<meta name="robots" content="index, follow">
+	<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+	<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+	<link rel="canonical" href="https://dentalia.com/clinica/">
+	<meta property="og:locale" content="es_MX">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="| Clínicas Dentales | Mejores Clinicas Dentales | ¡Agenda Ahora!">
+	<meta property="og:url" content="https://dentalia.com/clinica/">
+	<meta property="og:site_name" content="Clínicas Dentales | Mejores Clinicas Dentales | ¡Agenda Ahora!">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@dentalia_mx">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://dentalia.com/#website","url":"https://dentalia.com/","name":"Cl\u00ednicas Dentales | Mejores Clinicas Dentales | \u00a1Agenda Ahora!","description":"M\u00e1s de 60 Cl\u00ednicas Dentales \u2022 Odontolog\u00eda, Ortodoncia, Endodoncia, Maxilofacial, Dentista para ni\u00f1os \u2022 Agenda Ahora Mismo","potentialAction":[{"@type":"SearchAction","target":"https://dentalia.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"es-MX"},{"@type":"CollectionPage","@id":"https://dentalia.com/clinica/#webpage","url":"https://dentalia.com/clinica/","name":"| Cl\u00ednicas Dentales | Mejores Clinicas Dentales | \u00a1Agenda Ahora!","isPartOf":{"@id":"https://dentalia.com/#website"},"inLanguage":"es-MX","potentialAction":[{"@type":"ReadAction","target":["https://dentalia.com/clinica/"]}]}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel="dns-prefetch" href="//use.fontawesome.com">
+<link rel="alternate" type="application/rss+xml" title="Clínicas Dentales | Mejores Clinicas Dentales | ¡Agenda Ahora! » Feed" href="https://dentalia.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Clínicas Dentales | Mejores Clinicas Dentales | ¡Agenda Ahora! » RSS de los comentarios" href="https://dentalia.com/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="Clínicas Dentales | Mejores Clinicas Dentales | ¡Agenda Ahora! » Clinicas Feed" href="https://dentalia.com/clinica/feed/">
+		<!-- This site uses the Google Analytics by MonsterInsights plugin v8.14.1 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+							<script src="//www.googletagmanager.com/gtag/js?id=G-EN8BN980LH" data-cfasync="false" data-wpfc-render="false" async=""></script>
+			<script data-cfasync="false" data-wpfc-render="false">
+				var mi_version = '8.14.1';
+				var mi_track_user = true;
+				var mi_no_track_reason = '';
+				
+								var disableStrs = [
+										'ga-disable-G-EN8BN980LH',
+														];
+
+				/* Function to detect opted out users */
+				function __gtagTrackerIsOptedOut() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						if (document.cookie.indexOf(disableStrs[index] + '=true') > -1) {
+							return true;
+						}
+					}
+
+					return false;
+				}
+
+				/* Disable tracking if the opt-out cookie exists. */
+				if (__gtagTrackerIsOptedOut()) {
+					for (var index = 0; index < disableStrs.length; index++) {
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				/* Opt-out function */
+				function __gtagTrackerOptout() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						document.cookie = disableStrs[index] + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				if ('undefined' === typeof gaOptout) {
+					function gaOptout() {
+						__gtagTrackerOptout();
+					}
+				}
+								window.dataLayer = window.dataLayer || [];
+
+				window.MonsterInsightsDualTracker = {
+					helpers: {},
+					trackers: {},
+				};
+				if (mi_track_user) {
+					function __gtagDataLayer() {
+						dataLayer.push(arguments);
+					}
+
+					function __gtagTracker(type, name, parameters) {
+						if (!parameters) {
+							parameters = {};
+						}
+
+						if (parameters.send_to) {
+							__gtagDataLayer.apply(null, arguments);
+							return;
+						}
+
+						if (type === 'event') {
+														parameters.send_to = monsterinsights_frontend.v4_id;
+							var hookName = name;
+							if (typeof parameters['event_category'] !== 'undefined') {
+								hookName = parameters['event_category'] + ':' + name;
+							}
+
+							if (typeof MonsterInsightsDualTracker.trackers[hookName] !== 'undefined') {
+								MonsterInsightsDualTracker.trackers[hookName](parameters);
+							} else {
+								__gtagDataLayer('event', name, parameters);
+							}
+							
+													} else {
+							__gtagDataLayer.apply(null, arguments);
+						}
+					}
+
+					__gtagTracker('js', new Date());
+					__gtagTracker('set', {
+						'developer_id.dZGIzZG': true,
+											});
+										__gtagTracker('config', 'G-EN8BN980LH', {"forceSSL":"true","link_attribution":"true"} );
+															window.gtag = __gtagTracker;										(function () {
+						/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+						/* ga and __gaTracker compatibility shim. */
+						var noopfn = function () {
+							return null;
+						};
+						var newtracker = function () {
+							return new Tracker();
+						};
+						var Tracker = function () {
+							return null;
+						};
+						var p = Tracker.prototype;
+						p.get = noopfn;
+						p.set = noopfn;
+						p.send = function () {
+							var args = Array.prototype.slice.call(arguments);
+							args.unshift('send');
+							__gaTracker.apply(null, args);
+						};
+						var __gaTracker = function () {
+							var len = arguments.length;
+							if (len === 0) {
+								return;
+							}
+							var f = arguments[len - 1];
+							if (typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function') {
+								if ('send' === arguments[0]) {
+									var hitConverted, hitObject = false, action;
+									if ('event' === arguments[1]) {
+										if ('undefined' !== typeof arguments[3]) {
+											hitObject = {
+												'eventAction': arguments[3],
+												'eventCategory': arguments[2],
+												'eventLabel': arguments[4],
+												'value': arguments[5] ? arguments[5] : 1,
+											}
+										}
+									}
+									if ('pageview' === arguments[1]) {
+										if ('undefined' !== typeof arguments[2]) {
+											hitObject = {
+												'eventAction': 'page_view',
+												'page_path': arguments[2],
+											}
+										}
+									}
+									if (typeof arguments[2] === 'object') {
+										hitObject = arguments[2];
+									}
+									if (typeof arguments[5] === 'object') {
+										Object.assign(hitObject, arguments[5]);
+									}
+									if ('undefined' !== typeof arguments[1].hitType) {
+										hitObject = arguments[1];
+										if ('pageview' === hitObject.hitType) {
+											hitObject.eventAction = 'page_view';
+										}
+									}
+									if (hitObject) {
+										action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
+										hitConverted = mapArgs(hitObject);
+										__gtagTracker('event', action, hitConverted);
+									}
+								}
+								return;
+							}
+
+							function mapArgs(args) {
+								var arg, hit = {};
+								var gaMap = {
+									'eventCategory': 'event_category',
+									'eventAction': 'event_action',
+									'eventLabel': 'event_label',
+									'eventValue': 'event_value',
+									'nonInteraction': 'non_interaction',
+									'timingCategory': 'event_category',
+									'timingVar': 'name',
+									'timingValue': 'value',
+									'timingLabel': 'event_label',
+									'page': 'page_path',
+									'location': 'page_location',
+									'title': 'page_title',
+								};
+								for (arg in args) {
+																		if (!(!args.hasOwnProperty(arg) || !gaMap.hasOwnProperty(arg))) {
+										hit[gaMap[arg]] = args[arg];
+									} else {
+										hit[arg] = args[arg];
+									}
+								}
+								return hit;
+							}
+
+							try {
+								f.hitCallback();
+							} catch (ex) {
+							}
+						};
+						__gaTracker.create = newtracker;
+						__gaTracker.getByName = newtracker;
+						__gaTracker.getAll = function () {
+							return [];
+						};
+						__gaTracker.remove = noopfn;
+						__gaTracker.loaded = true;
+						window['__gaTracker'] = __gaTracker;
+					})();
+									} else {
+										console.log("");
+					(function () {
+						function __gtagTracker() {
+							return null;
+						}
+
+						window['__gtagTracker'] = __gtagTracker;
+						window['gtag'] = __gtagTracker;
+					})();
+									}
+			</script>
+				<!-- / Google Analytics by MonsterInsights -->
+		<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/dentalia.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2.4"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){p.clearRect(0,0,i.width,i.height),p.fillText(e,0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(t,0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!s("\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" id="wp-block-library-css" href="https://dentalia.com/wp-includes/css/dist/block-library/style.min.css?ver=6.2.4" media="all">
+<link rel="stylesheet" id="jet-engine-frontend-css" href="https://dentalia.com/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=3.1.3.1" media="all">
+<link rel="stylesheet" id="classic-theme-styles-css" href="https://dentalia.com/wp-includes/css/classic-themes.min.css?ver=6.2.4" media="all">
+<style id="global-styles-inline-css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="hello-elementor-css" href="https://dentalia.com/wp-content/themes/hello-elementor/style.min.css?ver=2.7.1" media="all">
+<link rel="stylesheet" id="hello-elementor-theme-style-css" href="https://dentalia.com/wp-content/themes/hello-elementor/theme.min.css?ver=2.7.1" media="all">
+<link rel="stylesheet" id="elementor-frontend-css" href="https://dentalia.com/wp-content/uploads/elementor/css/custom-frontend-lite.min.css?ver=1704390392" media="all">
+<link rel="stylesheet" id="elementor-post-6-css" href="https://dentalia.com/wp-content/uploads/elementor/css/post-6.css?ver=1704390392" media="all">
+<link rel="stylesheet" id="jet-elements-css" href="https://dentalia.com/wp-content/plugins/jet-elements/assets/css/jet-elements.css?ver=2.6.9" media="all">
+<link rel="stylesheet" id="jet-elements-skin-css" href="https://dentalia.com/wp-content/plugins/jet-elements/assets/css/jet-elements-skin.css?ver=2.6.9" media="all">
+<link rel="stylesheet" id="elementor-icons-css" href="https://dentalia.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.20.0" media="all">
+<link rel="stylesheet" id="swiper-css" href="https://dentalia.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5" media="all">
+<link rel="stylesheet" id="elementor-pro-css" href="https://dentalia.com/wp-content/uploads/elementor/css/custom-pro-frontend-lite.min.css?ver=1704390393" media="all">
+<link rel="stylesheet" id="jet-tabs-frontend-css" href="https://dentalia.com/wp-content/plugins/jet-tabs/assets/css/jet-tabs-frontend.css?ver=2.1.21" media="all">
+<link rel="stylesheet" id="elementor-global-css" href="https://dentalia.com/wp-content/uploads/elementor/css/global.css?ver=1704390395" media="all">
+<link rel="stylesheet" id="elementor-post-12-css" href="https://dentalia.com/wp-content/uploads/elementor/css/post-12.css?ver=1707425415" media="all">
+<link rel="stylesheet" id="elementor-post-254-css" href="https://dentalia.com/wp-content/uploads/elementor/css/post-254.css?ver=1709160978" media="all">
+<link rel="stylesheet" id="elementor-post-5883-css" href="https://dentalia.com/wp-content/uploads/elementor/css/post-5883.css?ver=1709145857" media="all">
+<link rel="stylesheet" id="elementor-post-344841-css" href="https://dentalia.com/wp-content/uploads/elementor/css/post-344841.css?ver=1704390399" media="all">
+<link rel="stylesheet" id="font-awesome-official-css" href="https://use.fontawesome.com/releases/v6.3.0/css/all.css" media="all" integrity="sha384-nYX0jQk7JxCp1jdj3j2QdJbEJaTvTlhexnpMjwIkYQLdk9ZE3/g8CBw87XP2N0pR" crossorigin="anonymous">
+<link rel="stylesheet" id="hello-elementor-child-style-css" href="https://dentalia.com/wp-content/themes/hello-theme-child-master/style.css?ver=1.1.9" media="all">
+<link rel="stylesheet" id="jquery-chosen-css" href="https://dentalia.com/wp-content/plugins/jet-search/assets/lib/chosen/chosen.min.css?ver=1.8.7" media="all">
+<link rel="stylesheet" id="jet-search-css" href="https://dentalia.com/wp-content/plugins/jet-search/assets/css/jet-search.css?ver=3.0.3" media="all">
+<link rel="stylesheet" id="font-awesome-official-v4shim-css" href="https://use.fontawesome.com/releases/v6.3.0/css/v4-shims.css" media="all" integrity="sha384-SQz6YOYE9rzJdPMcxCxNEmEuaYeT0ayZY/ZxArYWtTnvBwcfHI6rCwtgsOonZ+08" crossorigin="anonymous">
+<link rel="stylesheet" id="google-fonts-1-css" href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=swap&amp;ver=6.2.4" media="all">
+<link rel="stylesheet" id="elementor-icons-shared-0-css" href="https://dentalia.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3" media="all">
+<link rel="stylesheet" id="elementor-icons-fa-solid-css" href="https://dentalia.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3" media="all">
+<link rel="stylesheet" id="elementor-icons-fa-brands-css" href="https://dentalia.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3" media="all">
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin=""><script src="https://dentalia.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=8.14.1" id="monsterinsights-frontend-script-js"></script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9">
+<script data-cfasync="false" data-wpfc-render="false" id="monsterinsights-frontend-script-js-extra">var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/dentalia.com","hash_tracking":"false","ua":"","v4_id":"G-EN8BN980LH"};</script>
+<script src="https://dentalia.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.4" id="jquery-core-js"></script>
+<script src="https://dentalia.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0" id="jquery-migrate-js"></script>
+<script src="https://dentalia.com/wp-includes/js/imagesloaded.min.js?ver=6.2.4" id="imagesLoaded-js"></script>
+<link rel="https://api.w.org/" href="https://dentalia.com/wp-json/"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://dentalia.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://dentalia.com/wp-includes/wlwmanifest.xml">
+<meta name="generator" content="WordPress 6.2.4">
+<!-- START CHATBOX WOLKVOX-->
+<script id="prodId" type="text/javascript" src="https://widget02.wolkvox.com/chat/?prodId=a29uZWN0YW14LWRlbnRhbGlhLjE1NjM=" async=""></script>
+<!-- END CHATBOX WOLKVOX-->
+
+<!-- Hotjar Tracking Code for https://dentalia.com/ -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:3724640,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script><script async="" src="https://static.hotjar.com/c/hotjar-3724640.js?sv=6"></script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PLSH6CC');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-FMK4KRGVF2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-FMK4KRGVF2');
+  gtag('config', 'G-94GCJ4Q0CE');
+  gtag('config', 'AW-419651680');
+</script>
+
+
+<meta name="generator" content="Elementor 3.13.1; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, a11y_improvements, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
+<link rel="icon" href="https://dentalia.com/wp-content/uploads/2023/03/cropped-favicon-32x32-1-32x32.png" sizes="32x32">
+<link rel="icon" href="https://dentalia.com/wp-content/uploads/2023/03/cropped-favicon-32x32-1-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://dentalia.com/wp-content/uploads/2023/03/cropped-favicon-32x32-1-180x180.png">
+<meta name="msapplication-TileImage" content="https://dentalia.com/wp-content/uploads/2023/03/cropped-favicon-32x32-1-270x270.png">
+		<style id="wp-custom-css">
+			.jet-listing-grid__slider-icon.slick-arrow svg {
+    display: none;
+}
+.jet-listing-grid__slider-icon.slick-arrow::before {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 100%;
+    background-image: url("/wp-content/uploads/2023/03/Group-8895-1-1.svg");
+    background-repeat: no-repeat;
+    background-size: 14px;
+    background-position: 50% 50%;
+    transform: scaleX(-1);
+}
+#elementor-popup-modal-344841 {
+display: none!important;
+}
+.rollStyles .swiper-pagination-bullet {
+  height: 16px!important; width: 16px!important;
+  border-radius: 6px!important;
+}		</style>
+		  <script src="https://dentalia.com/wp-content/themes/hello-elementor/assets/js/jquery.min.js"></script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script async="" src="https://script.hotjar.com/modules.4bbac2bdc7f1b66d3009.js" charset="utf-8"></script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/419651680/?random=1712166845477&amp;cv=11&amp;fst=1712166845477&amp;bg=ffffff&amp;guid=ON&amp;async=1&amp;gtm=45be4410v9101969467za200&amp;gcd=13l3l3l3l1&amp;dma=0&amp;u_w=1280&amp;u_h=720&amp;url=https%3A%2F%2Fdentalia.com%2Fclinica%2F&amp;hn=www.googleadservices.com&amp;frm=0&amp;tiba=%7C%20Cl%C3%ADnicas%20Dentales%20%7C%20Mejores%20Clinicas%20Dentales%20%7C%20%C2%A1Agenda%20Ahora!&amp;did=dZGIzZG&amp;gdid=dZGIzZG&amp;npa=0&amp;pscdl=noapi&amp;auid=1297226935.1712166845&amp;fdr=QA&amp;data=event%3Dgtag.config&amp;rfmt=3&amp;fmt=4"></script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9">
+  <script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/56/6/common.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/56/6/util.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/56/6/map.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/56/6/overlay.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/56/6/onion.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps/vt?pb=!1m4!1m3!1i4!2i2!3i5!1m4!1m3!1i4!2i3!3i5!1m4!1m3!1i4!2i2!3i6!1m4!1m3!1i4!2i2!3i7!1m4!1m3!1i4!2i3!3i6!1m4!1m3!1i4!2i3!3i7!1m4!1m3!1i4!2i4!3i5!1m4!1m3!1i4!2i4!3i6!1m4!1m3!1i4!2i4!3i7!1m4!1m3!1i4!2i2!3i8!1m4!1m3!1i4!2i3!3i8!1m4!1m3!1i4!2i4!3i8!2m3!1e0!2sm!3i687432261!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjZ8cy5lOmd8cC5jOiNlOWU5ZTl8cC5sOjE3LHMudDo1fHMuZTpnfHAuYzojZjVmNWY1fHAubDoyMCxzLnQ6NDl8cy5lOmcuZnxwLmM6I2ZmZmZmZnxwLmw6MTcscy50OjQ5fHMuZTpnLnN8cC5jOiNmZmZmZmZ8cC5sOjI5fHAudzowLjIscy50OjUwfHMuZTpnfHAuYzojZmZmZmZmfHAubDoxOCxzLnQ6NTF8cy5lOmd8cC5jOiNmZmZmZmZ8cC5sOjE2LHMudDoyfHMuZTpnfHAuYzojZjVmNWY1fHAubDoyMSxzLnQ6NDB8cy5lOmd8cC5jOiNkZWRlZGV8cC5sOjIxLHMuZTpsLnQuc3xwLnY6b258cC5jOiNmZmZmZmZ8cC5sOjE2LHMuZTpsLnQuZnxwLnM6MzZ8cC5jOiMzMzMzMzN8cC5sOjQwLHMuZTpsLml8cC52Om9mZixzLnQ6NHxzLmU6Z3xwLmM6I2YyZjJmMnxwLmw6MTkscy50OjF8cy5lOmcuZnxwLmM6I2ZlZmVmZXxwLmw6MjAscy50OjF8cy5lOmcuc3xwLmM6I2ZlZmVmZXxwLmw6MTd8cC53OjEuMg!4e3!12m1!5b1&amp;callback=_xdc_._3zdos2&amp;key=AIzaSyA78cJxZOhUOAnoNehx-TrG0xQeSgIU2Yk&amp;token=75776"></script></head><iframe id="frameChatWolkvox" title="frameChatWolkvox" name="frameChatWolkvox" allow="geolocation; microphone; camera; midi; encrypted-media;display-capture;" allowtransparency="true" draggable="true" frameborder="0" src="https://widget02.wolkvox.com/chat/iframe.php?prodId=a29uZWN0YW14LWRlbnRhbGlhLjE1NjM=" style="height: 73px!important ;width:75px!important; position: fixed !important; right: 1% !important; bottom: 1% !important; z-index: 99999 !important; overflow: hidden !important;"></iframe>
+<body data-rsssl="1" class="archive post-type-archive post-type-archive-clinicas rollStyles elementor-default elementor-template-full-width elementor-kit-6 elementor-page-5883 e--ua-firefox e--ua-mac" data-elementor-device-mode="laptop">
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 0.49803921568627"></feFuncR><feFuncG type="table" tableValues="0 0.49803921568627"></feFuncG><feFuncB type="table" tableValues="0 0.49803921568627"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 1"></feFuncR><feFuncG type="table" tableValues="0 1"></feFuncG><feFuncB type="table" tableValues="0 1"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765"></feFuncR><feFuncG type="table" tableValues="0 1"></feFuncG><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 1"></feFuncR><feFuncG type="table" tableValues="0 0.27843137254902"></feFuncG><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 0"></feFuncR><feFuncG type="table" tableValues="0 0.64705882352941"></feFuncG><feFuncB type="table" tableValues="0 1"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.78039215686275 1"></feFuncR><feFuncG type="table" tableValues="0 0.94901960784314"></feFuncG><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745"></feFuncR><feFuncG type="table" tableValues="0 1"></feFuncG><feFuncB type="table" tableValues="0.44705882352941 0.4"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.098039215686275 1"></feFuncR><feFuncG type="table" tableValues="0 0.66274509803922"></feFuncG><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PLSH6CC"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+		<div data-elementor-type="header" data-elementor-id="12" class="elementor elementor-12 elementor-location-header">
+								<section class="elementor-section elementor-top-section elementor-element elementor-element-2636023 elementor-section-full_width elementor-section-height-default elementor-section-height-default animated pulse" data-id="2636023" data-element_type="section" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;animation&quot;:&quot;pulse&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4800cf7" data-id="4800cf7" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-77e6c45 elementor-widget__width-inherit elementor-widget elementor-widget-html" data-id="77e6c45" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<a href="https://hubs.li/Q02jwqCP0">
+    <p class="textAlert">¡Agenda tu valoración dental GRATIS en tu primera cita!</p>
+</a>
+		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-f87a593 elementor-section-full_width elementor-hidden-tablet elementor-hidden-mobile elementor-section-height-default elementor-section-height-default elementor-sticky" data-id="f87a593" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[],&quot;sticky&quot;:&quot;top&quot;,&quot;sticky_on&quot;:[&quot;widescreen&quot;,&quot;desktop&quot;,&quot;laptop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-fd49a27" data-id="fd49a27" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e74966f elementor-widget-widescreen__width-auto elementor-widget elementor-widget-image" data-id="e74966f" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.13.1 - 09-05-2023 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>													<a href="https://dentalia.com">
+							<img width="178" height="92" src="https://dentalia.com/wp-content/uploads/2023/02/Logo.webp" class="attachment-full size-full wp-image-14" alt="" loading="lazy">								</a>
+															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-38e831f elementor-hidden-tablet elementor-hidden-mobile" data-id="38e831f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2deb4e3 elementor-nav-menu--stretch elementor-widget__width-auto elementor-nav-menu__align-left elementor-widget-widescreen__width-inherit elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="2deb4e3" data-element_type="widget" data-settings="{&quot;full_width&quot;:&quot;stretch&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;<i class=\&quot;\&quot;><\/i>&quot;,&quot;library&quot;:&quot;&quot;},&quot;layout&quot;:&quot;horizontal&quot;,&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://dentalia.com/wp-content/uploads/elementor/css/custom-pro-widget-nav-menu.min.css?ver=1704390397">			<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none">
+				<ul id="menu-1-2deb4e3" class="elementor-nav-menu" data-smartmenus-id="17121668469359204"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-4180"><a href="/clinica" aria-current="page" class="elementor-item elementor-item-active">Clínicas</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-16"><a href="/tratamientos-dentales/" class="elementor-item has-submenu" id="sm-17121668469359204-1" aria-haspopup="true" aria-controls="sm-17121668469359204-2" aria-expanded="false">Tratamientos<span class="sub-arrow"><i class=""></i></span></a>
+<ul class="sub-menu elementor-nav-menu--dropdown" id="sm-17121668469359204-2" role="group" aria-hidden="true" aria-labelledby="sm-17121668469359204-1" aria-expanded="false">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-349971"><a href="/tratamientos-dentales/#alineadores" class="elementor-sub-item elementor-item-anchor">Alineadores</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-349972"><a href="/tratamientos-dentales/#brackets" class="elementor-sub-item elementor-item-anchor">Brackets</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-349973"><a href="/tratamientos-dentales/#blanqueamiento" class="elementor-sub-item elementor-item-anchor">Blanqueamiento</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-349974"><a href="/tratamientos-dentales/#carillas" class="elementor-sub-item elementor-item-anchor">Carillas</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-349975"><a href="/tratamientos-dentales/#implantes" class="elementor-sub-item elementor-item-anchor">Implantes</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-349976"><a href="/tratamientos-dentales/#diagnostico-360" class="elementor-sub-item elementor-item-anchor">Diagnóstico 360</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-349977"><a href="/tratamientos-dentales/#mas-tratamientos" class="elementor-sub-item elementor-item-anchor">Más tratamientos</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-tipo-de-tratamiento menu-item-3941"><a href="https://dentalia.com/tipo-de-tratamiento/tratamientos-dentales-ninos/" class="elementor-item">Niños</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18"><a href="/planes-dentales-empresas" class="elementor-item">Empresas</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-347117"><a href="https://dentalia.com/cobertura-dental-1/" class="elementor-item">Cobertura dental</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343469"><a href="https://dentalia.com/sobre-dentalia/" class="elementor-item">Quiénes somos</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19"><a href="/blog" class="elementor-item">Blog</a></li>
+</ul>			</nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false" style="">
+			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Menu</span>
+		</div>
+					<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true" style="width: 1280px; left: 0px; top: 44px;">
+				<ul id="menu-2-2deb4e3" class="elementor-nav-menu" data-smartmenus-id="17121668469405928"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-4180"><a href="/clinica" aria-current="page" class="elementor-item elementor-item-active" tabindex="-1">Clínicas</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-16"><a href="/tratamientos-dentales/" class="elementor-item has-submenu" tabindex="-1" id="sm-17121668469405928-1" aria-haspopup="true" aria-controls="sm-17121668469405928-2" aria-expanded="false">Tratamientos<span class="sub-arrow"><i class=""></i></span></a>
+<ul class="sub-menu elementor-nav-menu--dropdown" id="sm-17121668469405928-2" role="group" aria-hidden="true" aria-labelledby="sm-17121668469405928-1" aria-expanded="false">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-349971"><a href="/tratamientos-dentales/#alineadores" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Alineadores</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-349972"><a href="/tratamientos-dentales/#brackets" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Brackets</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-349973"><a href="/tratamientos-dentales/#blanqueamiento" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Blanqueamiento</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-349974"><a href="/tratamientos-dentales/#carillas" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Carillas</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-349975"><a href="/tratamientos-dentales/#implantes" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Implantes</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-349976"><a href="/tratamientos-dentales/#diagnostico-360" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Diagnóstico 360</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-349977"><a href="/tratamientos-dentales/#mas-tratamientos" class="elementor-sub-item elementor-item-anchor" tabindex="-1">Más tratamientos</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-tipo-de-tratamiento menu-item-3941"><a href="https://dentalia.com/tipo-de-tratamiento/tratamientos-dentales-ninos/" class="elementor-item" tabindex="-1">Niños</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18"><a href="/planes-dentales-empresas" class="elementor-item" tabindex="-1">Empresas</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-347117"><a href="https://dentalia.com/cobertura-dental-1/" class="elementor-item" tabindex="-1">Cobertura dental</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343469"><a href="https://dentalia.com/sobre-dentalia/" class="elementor-item" tabindex="-1">Quiénes somos</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19"><a href="/blog" class="elementor-item" tabindex="-1">Blog</a></li>
+</ul>			</nav>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-2c9e745" data-id="2c9e745" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-fb5a347 elementor-align-right elementor-widget__width-auto elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-button" data-id="fb5a347" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://hubs.li/Q02jwp_t0" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Agenda Gratis</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-495aa61 elementor-widget__width-auto elementor-hidden-desktop elementor-hidden-laptop elementor-hidden-widescreen elementor-view-default elementor-widget elementor-widget-icon" data-id="495aa61" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<a class="elementor-icon" href="#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjE4NzIiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D">
+			<svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none"><rect y="0.848389" width="16" height="1" fill="#00309E"></rect><rect y="6.84839" width="16" height="1" fill="#00309E"></rect><rect y="12.8484" width="16" height="1" fill="#00309E"></rect></svg>			</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-9bac214 elementor-hidden-desktop elementor-hidden-laptop elementor-hidden-widescreen elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-sticky elementor-sticky--active elementor-section--handles-inside elementor-sticky--effects" data-id="9bac214" data-element_type="section" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;background_background&quot;:&quot;classic&quot;,&quot;sticky&quot;:&quot;top&quot;,&quot;sticky_on&quot;:[&quot;widescreen&quot;,&quot;desktop&quot;,&quot;laptop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}" style="position: fixed; margin-top: 0px; margin-bottom: 0px; top: 0px;">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-f8cf936" data-id="f8cf936" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2868ab8 elementor-widget elementor-widget-image" data-id="2868ab8" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://dentalia.com">
+							<img width="178" height="92" src="https://dentalia.com/wp-content/uploads/2023/02/Logo.webp" class="attachment-full size-full wp-image-14" alt="" loading="lazy">								</a>
+															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-437a748" data-id="437a748" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-f554837 elementor-align-right elementor-widget__width-auto elementor-mobile-align-left elementor-widget elementor-widget-button" data-id="f554837" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="tel:8000033682" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-icon elementor-align-icon-left">
+				<i aria-hidden="true" class="fas fa-phone-alt"></i>			</span>
+						<span class="elementor-button-text">Llámanos</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-fad2ef3 elementor-align-right elementor-widget__width-auto elementor-mobile-align-right elementor-hidden-tablet elementor-widget elementor-widget-button" data-id="fad2ef3" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://hubs.li/Q02jwp_t0" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Agenda Gratis</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-1f3bc45" data-id="1f3bc45" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-6942929 elementor-widget__width-auto elementor-hidden-desktop elementor-hidden-laptop elementor-view-default elementor-widget elementor-widget-icon" data-id="6942929" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<a class="elementor-icon" href="#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjYyMDAiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D">
+			<svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none"><rect y="0.848389" width="16" height="1" fill="#00309E"></rect><rect y="6.84839" width="16" height="1" fill="#00309E"></rect><rect y="12.8484" width="16" height="1" fill="#00309E"></rect></svg>			</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section><section class="elementor-section elementor-top-section elementor-element elementor-element-9bac214 elementor-hidden-desktop elementor-hidden-laptop elementor-hidden-widescreen elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-sticky elementor-sticky__spacer" data-id="9bac214" data-element_type="section" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;background_background&quot;:&quot;classic&quot;,&quot;sticky&quot;:&quot;top&quot;,&quot;sticky_on&quot;:[&quot;widescreen&quot;,&quot;desktop&quot;,&quot;laptop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}" style="visibility: hidden; transition: none 0s ease 0s; animation: 0s ease 0s 1 normal none running none;">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-f8cf936" data-id="f8cf936" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2868ab8 elementor-widget elementor-widget-image" data-id="2868ab8" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://dentalia.com">
+							<img width="178" height="92" src="https://dentalia.com/wp-content/uploads/2023/02/Logo.webp" class="attachment-full size-full wp-image-14" alt="" loading="lazy">								</a>
+															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-437a748" data-id="437a748" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-f554837 elementor-align-right elementor-widget__width-auto elementor-mobile-align-left elementor-widget elementor-widget-button" data-id="f554837" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="tel:8000033682" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-icon elementor-align-icon-left">
+				<i aria-hidden="true" class="fas fa-phone-alt"></i>			</span>
+						<span class="elementor-button-text">Llámanos</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-fad2ef3 elementor-align-right elementor-widget__width-auto elementor-mobile-align-right elementor-hidden-tablet elementor-widget elementor-widget-button" data-id="fad2ef3" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://hubs.li/Q02jwp_t0" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Agenda Gratis</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-1f3bc45" data-id="1f3bc45" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-6942929 elementor-widget__width-auto elementor-hidden-desktop elementor-hidden-laptop elementor-view-default elementor-widget elementor-widget-icon" data-id="6942929" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<a class="elementor-icon" href="#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjYyMDAiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D">
+			<svg xmlns="http://www.w3.org/2000/svg" width="16" height="14" viewBox="0 0 16 14" fill="none"><rect y="0.848389" width="16" height="1" fill="#00309E"></rect><rect y="6.84839" width="16" height="1" fill="#00309E"></rect><rect y="12.8484" width="16" height="1" fill="#00309E"></rect></svg>			</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+				<div data-elementor-type="archive" data-elementor-id="5883" class="elementor elementor-5883 elementor-location-archive">
+								<section class="elementor-section elementor-top-section elementor-element elementor-element-a7a4f20 elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a7a4f20" data-element_type="section" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-2da6575" data-id="2da6575" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-d866ae6 elementor-widget elementor-widget-jet-engine-maps-listing" data-id="d866ae6" data-element_type="widget" id="map" data-widget_type="jet-engine-maps-listing.default">
+				<div class="elementor-widget-container">
+			<div class="jet-map-listing google-provider" data-init="{&quot;zoomControl&quot;:true,&quot;fullscreenControl&quot;:true,&quot;streetViewControl&quot;:true,&quot;mapTypeControl&quot;:false}" data-markers="[{&quot;id&quot;:344706,&quot;latLang&quot;:{&quot;lat&quot;:&quot;19.4391521&quot;,&quot;lng&quot;:&quot;-99.0945976&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:344662,&quot;latLang&quot;:{&quot;lat&quot;:&quot;25.6811354&quot;,&quot;lng&quot;:&quot;-100.3545263&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:343685,&quot;latLang&quot;:{&quot;lat&quot;:&quot;32.5134115&quot;,&quot;lng&quot;:&quot;-116.9658006&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:343665,&quot;latLang&quot;:{&quot;lat&quot;:&quot;19.5493676&quot;,&quot;lng&quot;:&quot;-99.2740314&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:343533,&quot;latLang&quot;:{&quot;lat&quot;:&quot;19.2980525&quot;,&quot;lng&quot;:&quot;-99.1376166&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1359,&quot;latLang&quot;:{&quot;lat&quot;:&quot;19.3613046&quot;,&quot;lng&quot;:&quot;-99.2735343&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1355,&quot;latLang&quot;:{&quot;lat&quot;:&quot;31.6868462&quot;,&quot;lng&quot;:&quot;-106.4080948&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1354,&quot;latLang&quot;:{&quot;lat&quot;:&quot;21.0307114&quot;,&quot;lng&quot;:&quot;-89.6181018&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1353,&quot;latLang&quot;:{&quot;lat&quot;:&quot;21.0180654&quot;,&quot;lng&quot;:&quot;-89.5848245&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1352,&quot;latLang&quot;:{&quot;lat&quot;:&quot;20.6248002&quot;,&quot;lng&quot;:&quot;-87.0737076&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1350,&quot;latLang&quot;:{&quot;lat&quot;:&quot;21.1417361&quot;,&quot;lng&quot;:&quot;-86.8259686&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1349,&quot;latLang&quot;:{&quot;lat&quot;:&quot;20.7331685&quot;,&quot;lng&quot;:&quot;-103.4306941&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1348,&quot;latLang&quot;:{&quot;lat&quot;:&quot;20.694456&quot;,&quot;lng&quot;:&quot;-103.3756528&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1347,&quot;latLang&quot;:{&quot;lat&quot;:&quot;20.6743996&quot;,&quot;lng&quot;:&quot;-103.4049947&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1346,&quot;latLang&quot;:{&quot;lat&quot;:&quot;20.6767732&quot;,&quot;lng&quot;:&quot;-103.4307788&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1345,&quot;latLang&quot;:{&quot;lat&quot;:&quot;20.7198807&quot;,&quot;lng&quot;:&quot;-103.4177887&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1344,&quot;latLang&quot;:{&quot;lat&quot;:&quot;28.6250271&quot;,&quot;lng&quot;:&quot;-106.116195&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1343,&quot;latLang&quot;:{&quot;lat&quot;:&quot;32.5140932&quot;,&quot;lng&quot;:&quot;-117.0121572&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1342,&quot;latLang&quot;:{&quot;lat&quot;:&quot;29.1254877&quot;,&quot;lng&quot;:&quot;-110.9513153&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1341,&quot;latLang&quot;:{&quot;lat&quot;:&quot;29.0656443&quot;,&quot;lng&quot;:&quot;-110.9521538&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1340,&quot;latLang&quot;:{&quot;lat&quot;:&quot;25.4574489&quot;,&quot;lng&quot;:&quot;-100.9797802&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1339,&quot;latLang&quot;:{&quot;lat&quot;:&quot;25.5812818&quot;,&quot;lng&quot;:&quot;-103.4043437&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1338,&quot;latLang&quot;:{&quot;lat&quot;:&quot;25.6393389&quot;,&quot;lng&quot;:&quot;-100.3150041&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1337,&quot;latLang&quot;:{&quot;lat&quot;:&quot;25.6898612&quot;,&quot;lng&quot;:&quot;-100.2483586&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1333,&quot;latLang&quot;:{&quot;lat&quot;:&quot;25.6522182&quot;,&quot;lng&quot;:&quot;-100.3377284&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1331,&quot;latLang&quot;:{&quot;lat&quot;:&quot;25.7283531&quot;,&quot;lng&quot;:&quot;-100.2154194&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1330,&quot;latLang&quot;:{&quot;lat&quot;:&quot;25.7444436&quot;,&quot;lng&quot;:&quot;-100.312123&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1329,&quot;latLang&quot;:{&quot;lat&quot;:&quot;22.1284968&quot;,&quot;lng&quot;:&quot;-101.0310522&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1328,&quot;latLang&quot;:{&quot;lat&quot;:&quot;21.1568621&quot;,&quot;lng&quot;:&quot;-101.6952306&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1327,&quot;latLang&quot;:{&quot;lat&quot;:&quot;21.9245323&quot;,&quot;lng&quot;:&quot;-102.2897871&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1326,&quot;latLang&quot;:{&quot;lat&quot;:&quot;19.0343364&quot;,&quot;lng&quot;:&quot;-98.2293072&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1325,&quot;latLang&quot;:{&quot;lat&quot;:&quot;20.5851039&quot;,&quot;lng&quot;:&quot;-100.3809042&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1324,&quot;latLang&quot;:{&quot;lat&quot;:&quot;20.7059261&quot;,&quot;lng&quot;:&quot;-100.4427073&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1323,&quot;latLang&quot;:{&quot;lat&quot;:&quot;19.5103823&quot;,&quot;lng&quot;:&quot;-99.2339917&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1322,&quot;latLang&quot;:{&quot;lat&quot;:&quot;19.4550322&quot;,&quot;lng&quot;:&quot;-99.2188172&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1321,&quot;latLang&quot;:{&quot;lat&quot;:&quot;19.5475115&quot;,&quot;lng&quot;:&quot;-99.2109251&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1320,&quot;latLang&quot;:{&quot;lat&quot;:&quot;19.5243654&quot;,&quot;lng&quot;:&quot;-99.2271408&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1319,&quot;latLang&quot;:{&quot;lat&quot;:&quot;19.2671543&quot;,&quot;lng&quot;:&quot;-99.6058327&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1317,&quot;latLang&quot;:{&quot;lat&quot;:&quot;19.4958151&quot;,&quot;lng&quot;:&quot;-99.2470253&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1316,&quot;latLang&quot;:{&quot;lat&quot;:&quot;19.4057702&quot;,&quot;lng&quot;:&quot;-99.2730877&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1315,&quot;latLang&quot;:{&quot;lat&quot;:&quot;19.5197252&quot;,&quot;lng&quot;:&quot;-99.2707822&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1313,&quot;latLang&quot;:{&quot;lat&quot;:&quot;19.4062231&quot;,&quot;lng&quot;:&quot;-99.1106088&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1312,&quot;latLang&quot;:{&quot;lat&quot;:&quot;19.36588&quot;,&quot;lng&quot;:&quot;-99.1669431&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1310,&quot;latLang&quot;:{&quot;lat&quot;:&quot;19.4557924&quot;,&quot;lng&quot;:&quot;-99.1421227&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1309,&quot;latLang&quot;:{&quot;lat&quot;:&quot;19.3839615&quot;,&quot;lng&quot;:&quot;-99.0826723&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1308,&quot;latLang&quot;:{&quot;lat&quot;:&quot;19.3674396&quot;,&quot;lng&quot;:&quot;-99.2592183&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1307,&quot;latLang&quot;:{&quot;lat&quot;:&quot;19.4286725&quot;,&quot;lng&quot;:&quot;-99.1616682&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1306,&quot;latLang&quot;:{&quot;lat&quot;:&quot;19.4429015&quot;,&quot;lng&quot;:&quot;-99.2029344&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1305,&quot;latLang&quot;:{&quot;lat&quot;:&quot;19.3056683&quot;,&quot;lng&quot;:&quot;-99.2028421&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1304,&quot;latLang&quot;:{&quot;lat&quot;:&quot;19.3969198&quot;,&quot;lng&quot;:&quot;-99.1561339&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1303,&quot;latLang&quot;:{&quot;lat&quot;:&quot;19.3962706&quot;,&quot;lng&quot;:&quot;-99.1805731&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1301,&quot;latLang&quot;:{&quot;lat&quot;:&quot;19.4404937&quot;,&quot;lng&quot;:&quot;-99.1998231&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1300,&quot;latLang&quot;:{&quot;lat&quot;:&quot;19.3455693&quot;,&quot;lng&quot;:&quot;-99.1794298&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1299,&quot;latLang&quot;:{&quot;lat&quot;:&quot;19.486661&quot;,&quot;lng&quot;:&quot;-99.1312247&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1298,&quot;latLang&quot;:{&quot;lat&quot;:&quot;19.3077113&quot;,&quot;lng&quot;:&quot;-99.1641674&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1297,&quot;latLang&quot;:{&quot;lat&quot;:&quot;19.3148662&quot;,&quot;lng&quot;:&quot;-99.0771194&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1296,&quot;latLang&quot;:{&quot;lat&quot;:&quot;19.4820473&quot;,&quot;lng&quot;:&quot;-99.1303518&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1294,&quot;latLang&quot;:{&quot;lat&quot;:&quot;19.3727857&quot;,&quot;lng&quot;:&quot;-99.1730125&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1293,&quot;latLang&quot;:{&quot;lat&quot;:&quot;19.459094&quot;,&quot;lng&quot;:&quot;-99.1776841&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1291,&quot;latLang&quot;:{&quot;lat&quot;:&quot;19.342499&quot;,&quot;lng&quot;:&quot;-99.1466464&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1290,&quot;latLang&quot;:{&quot;lat&quot;:&quot;19.2933367&quot;,&quot;lng&quot;:&quot;-99.1280291&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1289,&quot;latLang&quot;:{&quot;lat&quot;:&quot;19.4490389&quot;,&quot;lng&quot;:&quot;-99.1519141&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false},{&quot;id&quot;:1288,&quot;latLang&quot;:{&quot;lat&quot;:&quot;19.349022&quot;,&quot;lng&quot;:&quot;-99.1896842&quot;},&quot;label&quot;:false,&quot;custom_marker&quot;:false}]" data-general="{&quot;api&quot;:&quot;https:\/\/dentalia.com\/wp-json\/jet-engine\/v2\/get-map-marker-info\/&quot;,&quot;restNonce&quot;:&quot;af9e48a979&quot;,&quot;listingID&quot;:6640,&quot;source&quot;:&quot;posts&quot;,&quot;width&quot;:450,&quot;offset&quot;:40,&quot;clustererImg&quot;:&quot;https:\/\/dentalia.com\/wp-content\/plugins\/jet-engine\/includes\/modules\/maps-listings\/assets\/lib\/markerclustererplus\/img\/m&quot;,&quot;marker&quot;:{&quot;type&quot;:&quot;icon&quot;,&quot;html&quot;:&quot;<i style=\&quot;cursor:pointer;\&quot; class=\&quot;jet-map-marker fas fa-map-marker-alt\&quot; aria-hidden=\&quot;true\&quot;><\/i>&quot;},&quot;autoCenter&quot;:true,&quot;maxZoom&quot;:15,&quot;customCenter&quot;:false,&quot;customZoom&quot;:11,&quot;popupPreloader&quot;:false,&quot;querySeparator&quot;:&quot;?&quot;,&quot;markerClustering&quot;:true,&quot;advanced&quot;:{&quot;zoom_control&quot;:&quot;auto&quot;},&quot;styles&quot;:[{&quot;featureType&quot;:&quot;water&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#e9e9e9&quot;},{&quot;lightness&quot;:17}]},{&quot;featureType&quot;:&quot;landscape&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#f5f5f5&quot;},{&quot;lightness&quot;:20}]},{&quot;featureType&quot;:&quot;road.highway&quot;,&quot;elementType&quot;:&quot;geometry.fill&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#ffffff&quot;},{&quot;lightness&quot;:17}]},{&quot;featureType&quot;:&quot;road.highway&quot;,&quot;elementType&quot;:&quot;geometry.stroke&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#ffffff&quot;},{&quot;lightness&quot;:29},{&quot;weight&quot;:0.2}]},{&quot;featureType&quot;:&quot;road.arterial&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#ffffff&quot;},{&quot;lightness&quot;:18}]},{&quot;featureType&quot;:&quot;road.local&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#ffffff&quot;},{&quot;lightness&quot;:16}]},{&quot;featureType&quot;:&quot;poi&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#f5f5f5&quot;},{&quot;lightness&quot;:21}]},{&quot;featureType&quot;:&quot;poi.park&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#dedede&quot;},{&quot;lightness&quot;:21}]},{&quot;elementType&quot;:&quot;labels.text.stroke&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;on&quot;},{&quot;color&quot;:&quot;#ffffff&quot;},{&quot;lightness&quot;:16}]},{&quot;elementType&quot;:&quot;labels.text.fill&quot;,&quot;stylers&quot;:[{&quot;saturation&quot;:36},{&quot;color&quot;:&quot;#333333&quot;},{&quot;lightness&quot;:40}]},{&quot;elementType&quot;:&quot;labels.icon&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;off&quot;}]},{&quot;featureType&quot;:&quot;transit&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#f2f2f2&quot;},{&quot;lightness&quot;:19}]},{&quot;featureType&quot;:&quot;administrative&quot;,&quot;elementType&quot;:&quot;geometry.fill&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#fefefe&quot;},{&quot;lightness&quot;:20}]},{&quot;featureType&quot;:&quot;administrative&quot;,&quot;elementType&quot;:&quot;geometry.stroke&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#fefefe&quot;},{&quot;lightness&quot;:17},{&quot;weight&quot;:1.2}]}]}" id="map_d866ae6" style="position: relative; overflow: hidden;"><div style="height: 100%; width: 100%; position: absolute; top: 0px; left: 0px; background-color: rgb(229, 227, 223);"><div style="overflow: hidden;"></div><div tabindex="0" aria-label="Map" aria-roledescription="map" role="region" style="position: absolute; height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px; left: 0px; top: 0px;" aria-describedby="E98C23EA-15E7-4BAA-BA00-A0CD4A8660E9"><div id="E98C23EA-15E7-4BAA-BA00-A0CD4A8660E9" style="display: none;"></div></div><div style="position: absolute; z-index: 0; left: 0px; top: 0px; height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px;" class="gm-style"><div style="position: absolute; z-index: 0; left: 0px; top: 0px; height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px; cursor: url(&quot;https://maps.gstatic.com/mapfiles/openhand_8_8.cur&quot;), default; touch-action: pan-x pan-y;"><div style="z-index: 1; position: absolute; left: 50%; top: 50%; width: 100%; will-change: transform; transform: translate(0px);"><div style="position: absolute; left: 0px; top: 0px; z-index: 100; width: 100%;"><div style="position: absolute; left: 0px; top: 0px; z-index: 0;"><div style="position: absolute; z-index: 996; transform: matrix(1, 0, 0, 1, -120, -206);"><div style="position: absolute; left: 0px; top: 256px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: -256px; top: 256px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: -256px; top: 0px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: 256px; top: 0px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: 256px; top: 256px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: 256px; top: 512px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: 0px; top: 512px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: -256px; top: 512px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: -256px; top: -256px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: 0px; top: -256px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div><div style="position: absolute; left: 256px; top: -256px; width: 256px; height: 256px;"><div style="width: 256px; height: 256px;"></div></div></div></div></div><div style="position: absolute; left: 0px; top: 0px; z-index: 101; width: 100%;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 102; width: 100%;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 103; width: 100%;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 0;"><div style="position: absolute; z-index: 996; transform: matrix(1, 0, 0, 1, -120, -206);"><div style="position: absolute; left: 0px; top: 256px; width: 256px; height: 256px; transition: opacity 200ms linear 0s;"><img style="width: 256px; height: 256px; user-select: none; border: 0px; padding: 0px; margin: 0px; max-width: none;" draggable="false" alt="" role="presentation" src="https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i4!2i3!3i7!4i256!2m3!1e0!2sm!3i687432261!3m17!2sen-US!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy50OjZ8cy5lOmd8cC5jOiNlOWU5ZTl8cC5sOjE3LHMudDo1fHMuZTpnfHAuYzojZjVmNWY1fHAubDoyMCxzLnQ6NDl8cy5lOmcuZnxwLmM6I2ZmZmZmZnxwLmw6MTcscy50OjQ5fHMuZTpnLnN8cC5jOiNmZmZmZmZ8cC5sOjI5fHAudzowLjIscy50OjUwfHMuZTpnfHAuYzojZmZmZmZmfHAubDoxOCxzLnQ6NTF8cy5lOmd8cC5jOiNmZmZmZmZ8cC5sOjE2LHMudDoyfHMuZTpnfHAuYzojZjVmNWY1fHAubDoyMSxzLnQ6NDB8cy5lOmd8cC5jOiNkZWRlZGV8cC5sOjIxLHMuZTpsLnQuc3xwLnY6b258cC5jOiNmZmZmZmZ8cC5sOjE2LHMuZTpsLnQuZnxwLnM6MzZ8cC5jOiMzMzMzMzN8cC5sOjQwLHMuZTpsLml8cC52Om9mZixzLnQ6NHxzLmU6Z3xwLmM6I2YyZjJmMnxwLmw6MTkscy50OjF8cy5lOmcuZnxwLmM6I2ZlZmVmZXxwLmw6MjAscy50OjF8cy5lOmcuc3xwLmM6I2ZlZmVmZXxwLmw6MTd8cC53OjEuMg!4e0&amp;key=AIzaSyA78cJxZOhUOAnoNehx-TrG0xQeSgIU2Yk&amp;token=26566"></div></div></div></div><div style="z-index: 3; position: absolute; height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px; left: 0px; top: 0px; touch-action: pan-x pan-y;"><div style="z-index: 4; position: absolute; left: 50%; top: 50%; width: 100%; will-change: transform; transform: translate(0px);"><div style="position: absolute; left: 0px; top: 0px; z-index: 104; width: 100%;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 105; width: 100%;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 106; width: 100%;"><span id="E7DAD870-0563-4040-B5E9-E64D0DC9C7E5" style="display: none;">To navigate, press the arrow keys.</span><div class="cluster" style="z-index: 1000001; cursor: pointer; position: absolute; top: 52px; left: 4px; width: 56px; height: 56px; user-select: none;" title="">
+<img alt="45" aria-hidden="true" src="https://dentalia.com/wp-content/plugins/jet-engine/includes/modules/maps-listings/assets/lib/markerclustererplus/img/m2.png" style="position: absolute;top: 0px;left: 0px;clip: rect(0px, 56px, 56px, 0px)">
+<div aria-label="" tabindex="0" style="position: absolute;top: 0px;left: 0px;color: black;font-size: 11px;font-family: Arial,sans-serif;font-weight: bold;font-style: normal;text-decoration: none;text-align: center;width: 56px;line-height: 56px">
+  <span aria-hidden="true">45</span>
+</div>
+</div><div class="cluster" style="z-index: 1000001; cursor: pointer; position: absolute; top: -23px; left: -8px; width: 53px; height: 53px; user-select: none;" title="">
+<img alt="8" aria-hidden="true" src="https://dentalia.com/wp-content/plugins/jet-engine/includes/modules/maps-listings/assets/lib/markerclustererplus/img/m1.png" style="position: absolute;top: 0px;left: 0px;clip: rect(0px, 53px, 53px, 0px)">
+<div aria-label="" tabindex="0" style="position: absolute;top: 0px;left: 0px;color: black;font-size: 11px;font-family: Arial,sans-serif;font-weight: bold;font-style: normal;text-decoration: none;text-align: center;width: 53px;line-height: 53px">
+  <span aria-hidden="true">8</span>
+</div>
+</div><div class="cluster" style="z-index: 1000001; cursor: pointer; position: absolute; top: -112px; left: -197px; width: 53px; height: 53px; user-select: none;" title="">
+<img alt="2" aria-hidden="true" src="https://dentalia.com/wp-content/plugins/jet-engine/includes/modules/maps-listings/assets/lib/markerclustererplus/img/m1.png" style="position: absolute;top: 0px;left: 0px;clip: rect(0px, 53px, 53px, 0px)">
+<div aria-label="" tabindex="0" style="position: absolute;top: 0px;left: 0px;color: black;font-size: 11px;font-family: Arial,sans-serif;font-weight: bold;font-style: normal;text-decoration: none;text-align: center;width: 53px;line-height: 53px">
+  <span aria-hidden="true">2</span>
+</div>
+</div><div class="cluster" style="z-index: 1000001; cursor: pointer; position: absolute; top: -101px; left: -77px; width: 53px; height: 53px; user-select: none;" title="">
+<img alt="4" aria-hidden="true" src="https://dentalia.com/wp-content/plugins/jet-engine/includes/modules/maps-listings/assets/lib/markerclustererplus/img/m1.png" style="position: absolute;top: 0px;left: 0px;clip: rect(0px, 53px, 53px, 0px)">
+<div aria-label="" tabindex="0" style="position: absolute;top: 0px;left: 0px;color: black;font-size: 11px;font-family: Arial,sans-serif;font-weight: bold;font-style: normal;text-decoration: none;text-align: center;width: 53px;line-height: 53px">
+  <span aria-hidden="true">4</span>
+</div>
+</div><div class="cluster" style="z-index: 1000001; cursor: pointer; position: absolute; top: 35px; left: 114px; width: 53px; height: 53px; user-select: none;" title="">
+<img alt="4" aria-hidden="true" src="https://dentalia.com/wp-content/plugins/jet-engine/includes/modules/maps-listings/assets/lib/markerclustererplus/img/m1.png" style="position: absolute;top: 0px;left: 0px;clip: rect(0px, 53px, 53px, 0px)">
+<div aria-label="" tabindex="0" style="position: absolute;top: 0px;left: 0px;color: black;font-size: 11px;font-family: Arial,sans-serif;font-weight: bold;font-style: normal;text-decoration: none;text-align: center;width: 53px;line-height: 53px">
+  <span aria-hidden="true">4</span>
+</div>
+</div></div><div style="position: absolute; left: 0px; top: 0px; z-index: 107; width: 100%;"></div></div></div><div style="z-index: 4; position: absolute; height: 100%; width: 100%; padding: 0px; border-width: 0px; margin: 0px; left: 0px; top: 0px; opacity: 0;" class="gm-style-moc"><p class="gm-style-mot"></p></div></div><iframe aria-hidden="true" frameborder="0" tabindex="-1" style="z-index: -1; position: absolute; width: 100%; height: 100%; top: 0px; left: 0px; border: medium; opacity: 0;"></iframe><div style="pointer-events: none; width: 100%; height: 100%; box-sizing: border-box; position: absolute; z-index: 1000002; opacity: 0; border: 2px solid rgb(26, 115, 232);"></div></div></div></div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-9bd8e04" data-id="9bd8e04" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-e016b18 secTitlePage elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e016b18" data-element_type="section" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-e4d1e3d" data-id="e4d1e3d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-953eb5f elementor-widget__width-inherit elementor-widget-mobile__width-inherit titulo-clinicas-mobile elementor-widget elementor-widget-heading" data-id="953eb5f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.13.1 - 09-05-2023 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h1 class="elementor-heading-title elementor-size-default">Encuentra tu clínica dentalia® cerca de ti.</h1>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-c9f8bf8 secInputs elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-sticky" data-id="c9f8bf8" data-element_type="section" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;sticky&quot;:&quot;top&quot;,&quot;sticky_effects_offset&quot;:90,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;laptop&quot;],&quot;sticky_offset&quot;:0}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-c340ea4" data-id="c340ea4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-466fd2f select iconSelect elementor-widget-mobile__width-inherit jet-smart-filter-content-position-column jet-smart-filter-group-position-column elementor-widget elementor-widget-jet-smart-filters-select" data-id="466fd2f" data-element_type="widget" data-widget_type="jet-smart-filters-select.default">
+				<div class="elementor-widget-container">
+			<div class="jet-smart-filters-select jet-filter " data-indexer-rule="show" data-show-counter="" data-change-counter="always"><div class="jet-select" data-query-type="tax_query" data-query-var="estados" data-smart-filter="select" data-filter-id="6127" data-apply-type="mixed" data-content-provider="jet-engine" data-additional-providers="[&quot;jet-engine-maps\/map&quot;]" data-query-id="clinicas-archive" data-active-label="" data-layout-options="{&quot;show_label&quot;:&quot;&quot;,&quot;display_options&quot;:{&quot;show_items_label&quot;:false,&quot;show_decorator&quot;:false,&quot;filter_image_size&quot;:&quot;full&quot;,&quot;show_counter&quot;:false}}" data-query-var-suffix="">
+				<select class="jet-select__control" name="estados">
+		
+									<option value="" data-label="Buscar por Estado" data-counter-prefix="" data-counter-suffix="">Buscar por Estado</option>
+										<option value="19" data-label="Aguascalientes" data-counter-prefix="" data-counter-suffix="">Aguascalientes</option>
+										<option value="25" data-label="Baja California" data-counter-prefix="" data-counter-suffix="">Baja California</option>
+										<option value="26" data-label="Chihuahua" data-counter-prefix="" data-counter-suffix="">Chihuahua</option>
+										<option value="16" data-label="Ciudad de México" data-counter-prefix="" data-counter-suffix="">Ciudad de México</option>
+										<option value="232" data-label="Ciudad de México - Centro" data-counter-prefix="" data-counter-suffix="">Ciudad de México - Centro</option>
+										<option value="231" data-label="Ciudad de México - Norte" data-counter-prefix="" data-counter-suffix="">Ciudad de México - Norte</option>
+										<option value="233" data-label="Ciudad de México - Oriente" data-counter-prefix="" data-counter-suffix="">Ciudad de México - Oriente</option>
+										<option value="234" data-label="Ciudad de México - Poniente" data-counter-prefix="" data-counter-suffix="">Ciudad de México - Poniente</option>
+										<option value="235" data-label="Ciudad de México - Sur" data-counter-prefix="" data-counter-suffix="">Ciudad de México - Sur</option>
+										<option value="23" data-label="Coahuila" data-counter-prefix="" data-counter-suffix="">Coahuila</option>
+										<option value="237" data-label="Estado de México" data-counter-prefix="" data-counter-suffix="">Estado de México</option>
+										<option value="20" data-label="Guanajuato" data-counter-prefix="" data-counter-suffix="">Guanajuato</option>
+										<option value="27" data-label="Jalisco" data-counter-prefix="" data-counter-suffix="">Jalisco</option>
+										<option value="22" data-label="Nuevo León" data-counter-prefix="" data-counter-suffix="">Nuevo León</option>
+										<option value="18" data-label="Puebla" data-counter-prefix="" data-counter-suffix="">Puebla</option>
+										<option value="17" data-label="Queretaro" data-counter-prefix="" data-counter-suffix="">Queretaro</option>
+										<option value="39" data-label="Quintana Roo" data-counter-prefix="" data-counter-suffix="">Quintana Roo</option>
+										<option value="21" data-label="San Luis Potosi" data-counter-prefix="" data-counter-suffix="">San Luis Potosi</option>
+										<option value="24" data-label="Sonora" data-counter-prefix="" data-counter-suffix="">Sonora</option>
+										<option value="29" data-label="Yucatán" data-counter-prefix="" data-counter-suffix="">Yucatán</option>
+			</select>
+	</div>
+</div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-ec5f4fd" data-id="ec5f4fd" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-ec85a67 elementor-widget-mobile__width-inherit jet-smart-filter-content-position-line iconSearch elementor-widget elementor-widget-jet-smart-filters-search" data-id="ec85a67" data-element_type="widget" data-widget_type="jet-smart-filters-search.default">
+				<div class="elementor-widget-container">
+			<div class="jet-smart-filters-search jet-filter"><div class="jet-search-filter button-icon-position-left" data-query-type="_s" data-query-var="query" data-smart-filter="search" data-filter-id="6130" data-apply-type="ajax-ontyping" data-content-provider="jet-engine" data-additional-providers="[&quot;jet-engine-maps\/map&quot;]" data-query-id="clinicas-archive" data-active-label="" data-layout-options="{&quot;show_label&quot;:&quot;&quot;,&quot;display_options&quot;:[]}" data-query-var-suffix="search" data-min-letters-count="3">
+	<div class="jet-search-filter__input-wrapper">
+		<input class="jet-search-filter__input" type="search" autocomplete="off" name="query" value="" placeholder="Buscar por Clinica">
+					<div class="jet-search-filter__input-clear"></div>
+			<div class="jet-search-filter__input-loading"></div>
+			</div>
+	</div>
+</div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-f9012da elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f9012da" data-element_type="section" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-05e9577 column-scrollbar" data-id="05e9577" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c1b6043 elementor-widget elementor-widget-jet-listing-grid" data-id="c1b6043" data-element_type="widget" id="clinicas-archive" data-settings="{&quot;columns&quot;:&quot;1&quot;}" data-widget_type="jet-listing-grid.default">
+				<div class="elementor-widget-container">
+			<div class="jet-listing-grid jet-listing-grid--lazy-load jet-listing jet-listing-grid-loading" data-lazy-load="{&quot;offset&quot;:&quot;98px&quot;,&quot;post_id&quot;:5883,&quot;queried_id&quot;:&quot;344706|WP_Post&quot;}"><div class="jet-listing-grid__loader"><div class="jet-listing-grid__loader-spinner"></div></div></div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+				<div data-elementor-type="footer" data-elementor-id="254" class="elementor elementor-254 elementor-location-footer">
+								<section class="elementor-section elementor-top-section elementor-element elementor-element-5b214ce elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="5b214ce" data-element_type="section" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-c9c6924" data-id="c9c6924" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-507d14a elementor-widget elementor-widget-image" data-id="507d14a" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="190" height="96" src="https://dentalia.com/wp-content/uploads/2023/02/imagen.png" class="attachment-full size-full wp-image-345491" alt="Dentalia Logo Footer" loading="lazy">															</div>
+				</div>
+				<div class="elementor-element elementor-element-3f4f55e elementor-align-center elementor-icon-list--layout-inline elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="3f4f55e" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://dentalia.com/wp-content/uploads/elementor/css/custom-widget-icon-list.min.css?ver=1704390401">		<ul class="elementor-icon-list-items elementor-inline-items">
+							<li class="elementor-icon-list-item elementor-inline-item">
+										<span class="elementor-icon-list-text">2024 © Clínica dental dentalia®</span>
+									</li>
+								<li class="elementor-icon-list-item elementor-inline-item">
+										<span class="elementor-icon-list-text">v. p6.2</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-9281bcb" data-id="9281bcb" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-d163dd7 elementor-hidden-tablet elementor-hidden-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d163dd7" data-element_type="section" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-f125b5e" data-id="f125b5e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2061af4 elementor-widget elementor-widget-heading" data-id="2061af4" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Suscribirme al newsletter</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-72cd349 elementor-button-align-stretch elementor-widget elementor-widget-form" data-id="72cd349" data-element_type="widget" data-settings="{&quot;button_width&quot;:&quot;30&quot;,&quot;step_next_label&quot;:&quot;Next&quot;,&quot;step_previous_label&quot;:&quot;Previous&quot;,&quot;button_width_mobile&quot;:&quot;40&quot;,&quot;button_width_laptop&quot;:&quot;20&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;}" data-widget_type="form.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor-pro - v3.12.1 - 02-04-2023 */
+.elementor-button.elementor-hidden,.elementor-hidden{display:none}.e-form__step{width:100%}.e-form__step:not(.elementor-hidden){display:flex;flex-wrap:wrap}.e-form__buttons{flex-wrap:wrap}.e-form__buttons,.e-form__buttons__wrapper{display:flex}.e-form__indicators{display:flex;justify-content:space-between;align-items:center;flex-wrap:nowrap;font-size:13px;margin-bottom:var(--e-form-steps-indicators-spacing)}.e-form__indicators__indicator{display:flex;flex-direction:column;align-items:center;justify-content:center;flex-basis:0;padding:0 var(--e-form-steps-divider-gap)}.e-form__indicators__indicator__progress{width:100%;position:relative;background-color:var(--e-form-steps-indicator-progress-background-color);border-radius:var(--e-form-steps-indicator-progress-border-radius);overflow:hidden}.e-form__indicators__indicator__progress__meter{width:var(--e-form-steps-indicator-progress-meter-width,0);height:var(--e-form-steps-indicator-progress-height);line-height:var(--e-form-steps-indicator-progress-height);padding-right:15px;border-radius:var(--e-form-steps-indicator-progress-border-radius);background-color:var(--e-form-steps-indicator-progress-color);color:var(--e-form-steps-indicator-progress-meter-color);text-align:right;transition:width .1s linear}.e-form__indicators__indicator:first-child{padding-left:0}.e-form__indicators__indicator:last-child{padding-right:0}.e-form__indicators__indicator--state-inactive{color:var(--e-form-steps-indicator-inactive-primary-color,#c2cbd2)}.e-form__indicators__indicator--state-inactive [class*=indicator--shape-]:not(.e-form__indicators__indicator--shape-none){background-color:var(--e-form-steps-indicator-inactive-secondary-color,#fff)}.e-form__indicators__indicator--state-inactive object,.e-form__indicators__indicator--state-inactive svg{fill:var(--e-form-steps-indicator-inactive-primary-color,#c2cbd2)}.e-form__indicators__indicator--state-active{color:var(--e-form-steps-indicator-active-primary-color,#39b54a);border-color:var(--e-form-steps-indicator-active-secondary-color,#fff)}.e-form__indicators__indicator--state-active [class*=indicator--shape-]:not(.e-form__indicators__indicator--shape-none){background-color:var(--e-form-steps-indicator-active-secondary-color,#fff)}.e-form__indicators__indicator--state-active object,.e-form__indicators__indicator--state-active svg{fill:var(--e-form-steps-indicator-active-primary-color,#39b54a)}.e-form__indicators__indicator--state-completed{color:var(--e-form-steps-indicator-completed-secondary-color,#fff)}.e-form__indicators__indicator--state-completed [class*=indicator--shape-]:not(.e-form__indicators__indicator--shape-none){background-color:var(--e-form-steps-indicator-completed-primary-color,#39b54a)}.e-form__indicators__indicator--state-completed .e-form__indicators__indicator__label{color:var(--e-form-steps-indicator-completed-primary-color,#39b54a)}.e-form__indicators__indicator--state-completed .e-form__indicators__indicator--shape-none{color:var(--e-form-steps-indicator-completed-primary-color,#39b54a);background-color:initial}.e-form__indicators__indicator--state-completed object,.e-form__indicators__indicator--state-completed svg{fill:var(--e-form-steps-indicator-completed-secondary-color,#fff)}.e-form__indicators__indicator__icon{width:var(--e-form-steps-indicator-padding,30px);height:var(--e-form-steps-indicator-padding,30px);font-size:var(--e-form-steps-indicator-icon-size);border-width:1px;border-style:solid;display:flex;justify-content:center;align-items:center;overflow:hidden;margin-bottom:10px}.e-form__indicators__indicator__icon img,.e-form__indicators__indicator__icon object,.e-form__indicators__indicator__icon svg{width:var(--e-form-steps-indicator-icon-size);height:auto}.e-form__indicators__indicator__icon .e-font-icon-svg{height:1em}.e-form__indicators__indicator__number{width:var(--e-form-steps-indicator-padding,30px);height:var(--e-form-steps-indicator-padding,30px);border-width:1px;border-style:solid;display:flex;justify-content:center;align-items:center;margin-bottom:10px}.e-form__indicators__indicator--shape-circle{border-radius:50%}.e-form__indicators__indicator--shape-square{border-radius:0}.e-form__indicators__indicator--shape-rounded{border-radius:5px}.e-form__indicators__indicator--shape-none{border:0}.e-form__indicators__indicator__label{text-align:center}.e-form__indicators__indicator__separator{width:100%;height:var(--e-form-steps-divider-width);background-color:#babfc5}.e-form__indicators--type-icon,.e-form__indicators--type-icon_text,.e-form__indicators--type-number,.e-form__indicators--type-number_text{align-items:flex-start}.e-form__indicators--type-icon .e-form__indicators__indicator__separator,.e-form__indicators--type-icon_text .e-form__indicators__indicator__separator,.e-form__indicators--type-number .e-form__indicators__indicator__separator,.e-form__indicators--type-number_text .e-form__indicators__indicator__separator{margin-top:calc(var(--e-form-steps-indicator-padding, 30px) / 2 - var(--e-form-steps-divider-width, 1px) / 2)}.elementor-field-type-hidden{display:none}.elementor-field-type-html{display:inline-block}.elementor-login .elementor-lost-password,.elementor-login .elementor-remember-me{font-size:.85em}.elementor-field-type-recaptcha_v3 .elementor-field-label{display:none}.elementor-field-type-recaptcha_v3 .grecaptcha-badge{z-index:1}.elementor-button .elementor-form-spinner{order:3}.elementor-form .elementor-button>span{display:flex;justify-content:center;align-items:center}.elementor-form .elementor-button .elementor-button-text{white-space:normal;flex-grow:0}.elementor-form .elementor-button svg{height:auto}.elementor-form .elementor-button .e-font-icon-svg{height:1em}.elementor-select-wrapper .select-caret-down-wrapper{position:absolute;top:50%;transform:translateY(-50%);inset-inline-end:10px;pointer-events:none;font-size:11px}.elementor-select-wrapper .select-caret-down-wrapper svg{display:unset;width:1em;aspect-ratio:unset;fill:currentColor}.elementor-select-wrapper .select-caret-down-wrapper i{font-size:19px;line-height:2}.elementor-select-wrapper.remove-before:before{content:""!important}</style>		<form class="elementor-form" method="post" name="New Form">
+			<input type="hidden" name="post_id" value="254">
+			<input type="hidden" name="form_id" value="72cd349">
+			<input type="hidden" name="referer_title" value="| Clínicas Dentales | Mejores Clinicas Dentales | ¡Agenda Ahora!">
+
+			
+			<div class="elementor-form-fields-wrapper elementor-labels-above">
+								<div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-70 elementor-sm-60 elementor-field-required">
+													<input size="1" type="email" name="form_fields[email]" id="form-field-email" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="hola@dentalia.com" required="required" aria-required="true">
+											</div>
+								<div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-30 e-form__buttons elementor-sm-40">
+					<button type="submit" class="elementor-button elementor-size-sm">
+						<span>
+															<span class=" elementor-button-icon">
+																										</span>
+																						<span class="elementor-button-text">Suscribirme</span>
+													</span>
+					</button>
+				</div>
+			</div>
+		</form>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-0268ede" data-id="0268ede" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-87bf2b1 elementor-shape-circle elementor-widget-tablet__width-auto elementor-widget-mobile__width-auto elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons" data-id="87bf2b1" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.13.1 - 09-05-2023 */
+.elementor-widget-social-icons.elementor-grid-0 .elementor-widget-container,.elementor-widget-social-icons.elementor-grid-mobile-0 .elementor-widget-container,.elementor-widget-social-icons.elementor-grid-tablet-0 .elementor-widget-container{line-height:1;font-size:0}.elementor-widget-social-icons:not(.elementor-grid-0):not(.elementor-grid-tablet-0):not(.elementor-grid-mobile-0) .elementor-grid{display:inline-grid}.elementor-widget-social-icons .elementor-grid{grid-column-gap:var(--grid-column-gap,5px);grid-row-gap:var(--grid-row-gap,5px);grid-template-columns:var(--grid-template-columns);justify-content:var(--justify-content,center);justify-items:var(--justify-content,center)}.elementor-icon.elementor-social-icon{font-size:var(--icon-size,25px);line-height:var(--icon-size,25px);width:calc(var(--icon-size, 25px) + (2 * var(--icon-padding, .5em)));height:calc(var(--icon-size, 25px) + (2 * var(--icon-padding, .5em)))}.elementor-social-icon{--e-social-icon-icon-color:#fff;display:inline-flex;background-color:#69727d;align-items:center;justify-content:center;text-align:center;cursor:pointer}.elementor-social-icon i{color:var(--e-social-icon-icon-color)}.elementor-social-icon svg{fill:var(--e-social-icon-icon-color)}.elementor-social-icon:last-child{margin:0}.elementor-social-icon:hover{opacity:.9;color:#fff}.elementor-social-icon-android{background-color:#a4c639}.elementor-social-icon-apple{background-color:#999}.elementor-social-icon-behance{background-color:#1769ff}.elementor-social-icon-bitbucket{background-color:#205081}.elementor-social-icon-codepen{background-color:#000}.elementor-social-icon-delicious{background-color:#39f}.elementor-social-icon-deviantart{background-color:#05cc47}.elementor-social-icon-digg{background-color:#005be2}.elementor-social-icon-dribbble{background-color:#ea4c89}.elementor-social-icon-elementor{background-color:#d30c5c}.elementor-social-icon-envelope{background-color:#ea4335}.elementor-social-icon-facebook,.elementor-social-icon-facebook-f{background-color:#3b5998}.elementor-social-icon-flickr{background-color:#0063dc}.elementor-social-icon-foursquare{background-color:#2d5be3}.elementor-social-icon-free-code-camp,.elementor-social-icon-freecodecamp{background-color:#006400}.elementor-social-icon-github{background-color:#333}.elementor-social-icon-gitlab{background-color:#e24329}.elementor-social-icon-globe{background-color:#69727d}.elementor-social-icon-google-plus,.elementor-social-icon-google-plus-g{background-color:#dd4b39}.elementor-social-icon-houzz{background-color:#7ac142}.elementor-social-icon-instagram{background-color:#262626}.elementor-social-icon-jsfiddle{background-color:#487aa2}.elementor-social-icon-link{background-color:#818a91}.elementor-social-icon-linkedin,.elementor-social-icon-linkedin-in{background-color:#0077b5}.elementor-social-icon-medium{background-color:#00ab6b}.elementor-social-icon-meetup{background-color:#ec1c40}.elementor-social-icon-mixcloud{background-color:#273a4b}.elementor-social-icon-odnoklassniki{background-color:#f4731c}.elementor-social-icon-pinterest{background-color:#bd081c}.elementor-social-icon-product-hunt{background-color:#da552f}.elementor-social-icon-reddit{background-color:#ff4500}.elementor-social-icon-rss{background-color:#f26522}.elementor-social-icon-shopping-cart{background-color:#4caf50}.elementor-social-icon-skype{background-color:#00aff0}.elementor-social-icon-slideshare{background-color:#0077b5}.elementor-social-icon-snapchat{background-color:#fffc00}.elementor-social-icon-soundcloud{background-color:#f80}.elementor-social-icon-spotify{background-color:#2ebd59}.elementor-social-icon-stack-overflow{background-color:#fe7a15}.elementor-social-icon-steam{background-color:#00adee}.elementor-social-icon-stumbleupon{background-color:#eb4924}.elementor-social-icon-telegram{background-color:#2ca5e0}.elementor-social-icon-thumb-tack{background-color:#1aa1d8}.elementor-social-icon-tripadvisor{background-color:#589442}.elementor-social-icon-tumblr{background-color:#35465c}.elementor-social-icon-twitch{background-color:#6441a5}.elementor-social-icon-twitter{background-color:#1da1f2}.elementor-social-icon-viber{background-color:#665cac}.elementor-social-icon-vimeo{background-color:#1ab7ea}.elementor-social-icon-vk{background-color:#45668e}.elementor-social-icon-weibo{background-color:#dd2430}.elementor-social-icon-weixin{background-color:#31a918}.elementor-social-icon-whatsapp{background-color:#25d366}.elementor-social-icon-wordpress{background-color:#21759b}.elementor-social-icon-xing{background-color:#026466}.elementor-social-icon-yelp{background-color:#af0606}.elementor-social-icon-youtube{background-color:#cd201f}.elementor-social-icon-500px{background-color:#0099e5}.elementor-shape-rounded .elementor-icon.elementor-social-icon{border-radius:10%}.elementor-shape-circle .elementor-icon.elementor-social-icon{border-radius:50%}</style>		<div class="elementor-social-icons-wrapper elementor-grid">
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-cc94295" href="https://www.facebook.com/dentalia.mx/" target="_blank">
+						<span class="elementor-screen-only">Facebook-f</span>
+						<i class="fab fa-facebook-f"></i>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-c388a90" href="https://www.instagram.com/dentalia_mx/" target="_blank">
+						<span class="elementor-screen-only">Instagram</span>
+						<i class="fab fa-instagram"></i>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin-in elementor-repeater-item-27791dd" href="https://www.linkedin.com/company/dentalia/" target="_blank">
+						<span class="elementor-screen-only">Linkedin-in</span>
+						<i class="fab fa-linkedin-in"></i>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-079378c" href="https://twitter.com/dentalia_mx" target="_blank">
+						<span class="elementor-screen-only">Twitter</span>
+						<i class="fab fa-twitter"></i>					</a>
+				</span>
+					</div>
+				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-015b113 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="015b113" data-element_type="section" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-c282418" data-id="c282418" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-9ea05bd elementor-widget__width-auto elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="9ea05bd" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Urgencias</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-ee84707" data-id="ee84707" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-6169d85 elementor-widget elementor-widget-heading" data-id="6169d85" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Contáctanos</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6f3eb30 elementor-widget elementor-widget-text-editor" data-id="6f3eb30" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.13.1 - 09-05-2023 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p><a class="textBtnCus" href="tel:528000033682"><i class="fas fa-phone-alt" aria-hidden="true"></i><span class="textBtnText boldText">800 003 3682</span></a></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-ebe4bd7 elementor-widget elementor-widget-text-editor" data-id="ebe4bd7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<a class="textBtnCus" href="mailto:hola@dentalia.com"><span class="textBtnText">hola@dentalia.com</span></a>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-fed52c0 elementor-hidden-widescreen elementor-hidden-desktop elementor-hidden-laptop elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fed52c0" data-element_type="section" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9956809" data-id="9956809" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-82d8be3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="82d8be3" data-element_type="section" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-068d083" data-id="068d083" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2446614 elementor-widget elementor-widget-heading" data-id="2446614" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Suscribirme al newsletter</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-e6ea5f8 elementor-button-align-stretch elementor-widget elementor-widget-form" data-id="e6ea5f8" data-element_type="widget" data-settings="{&quot;button_width&quot;:&quot;20&quot;,&quot;step_next_label&quot;:&quot;Next&quot;,&quot;step_previous_label&quot;:&quot;Previous&quot;,&quot;button_width_mobile&quot;:&quot;50&quot;,&quot;button_width_tablet&quot;:&quot;25&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;}" data-widget_type="form.default">
+				<div class="elementor-widget-container">
+					<form class="elementor-form" method="post" name="New Form">
+			<input type="hidden" name="post_id" value="254">
+			<input type="hidden" name="form_id" value="e6ea5f8">
+			<input type="hidden" name="referer_title" value="| Clínicas Dentales | Mejores Clinicas Dentales | ¡Agenda Ahora!">
+
+			
+			<div class="elementor-form-fields-wrapper elementor-labels-above">
+								<div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-80 elementor-md-70 elementor-sm-100 elementor-field-required">
+													<input size="1" type="email" name="form_fields[email]" id="form-field-email" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="hola@dentalia.com" required="required" aria-required="true">
+											</div>
+								<div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-20 e-form__buttons elementor-md-25 elementor-sm-50">
+					<button type="submit" class="elementor-button elementor-size-sm">
+						<span>
+															<span class=" elementor-button-icon">
+																										</span>
+																						<span class="elementor-button-text">Suscribirme</span>
+													</span>
+					</button>
+				</div>
+			</div>
+		</form>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-f4964d6 elementor-section-full_width dividerFooter elementor-section-height-default elementor-section-height-default" data-id="f4964d6" data-element_type="section" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9835fd0" data-id="9835fd0" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-b7d3a32 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="b7d3a32" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.13.1 - 09-05-2023 */
+.elementor-widget-divider{--divider-border-style:none;--divider-border-width:1px;--divider-color:#0c0d0e;--divider-icon-size:20px;--divider-element-spacing:10px;--divider-pattern-height:24px;--divider-pattern-size:20px;--divider-pattern-url:none;--divider-pattern-repeat:repeat-x}.elementor-widget-divider .elementor-divider{display:flex}.elementor-widget-divider .elementor-divider__text{font-size:15px;line-height:1;max-width:95%}.elementor-widget-divider .elementor-divider__element{margin:0 var(--divider-element-spacing);flex-shrink:0}.elementor-widget-divider .elementor-icon{font-size:var(--divider-icon-size)}.elementor-widget-divider .elementor-divider-separator{display:flex;margin:0;direction:ltr}.elementor-widget-divider--view-line_icon .elementor-divider-separator,.elementor-widget-divider--view-line_text .elementor-divider-separator{align-items:center}.elementor-widget-divider--view-line_icon .elementor-divider-separator:after,.elementor-widget-divider--view-line_icon .elementor-divider-separator:before,.elementor-widget-divider--view-line_text .elementor-divider-separator:after,.elementor-widget-divider--view-line_text .elementor-divider-separator:before{display:block;content:"";border-bottom:0;flex-grow:1;border-top:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--element-align-left .elementor-divider .elementor-divider-separator>.elementor-divider__svg:first-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-left .elementor-divider-separator:before{content:none}.elementor-widget-divider--element-align-left .elementor-divider__element{margin-left:0}.elementor-widget-divider--element-align-right .elementor-divider .elementor-divider-separator>.elementor-divider__svg:last-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-right .elementor-divider-separator:after{content:none}.elementor-widget-divider--element-align-right .elementor-divider__element{margin-right:0}.elementor-widget-divider:not(.elementor-widget-divider--view-line_text):not(.elementor-widget-divider--view-line_icon) .elementor-divider-separator{border-top:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--separator-type-pattern{--divider-border-style:none}.elementor-widget-divider--separator-type-pattern.elementor-widget-divider--view-line .elementor-divider-separator,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:after,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:before,.elementor-widget-divider--separator-type-pattern:not([class*=elementor-widget-divider--view]) .elementor-divider-separator{width:100%;min-height:var(--divider-pattern-height);-webkit-mask-size:var(--divider-pattern-size) 100%;mask-size:var(--divider-pattern-size) 100%;-webkit-mask-repeat:var(--divider-pattern-repeat);mask-repeat:var(--divider-pattern-repeat);background-color:var(--divider-color);-webkit-mask-image:var(--divider-pattern-url);mask-image:var(--divider-pattern-url)}.elementor-widget-divider--no-spacing{--divider-pattern-size:auto}.elementor-widget-divider--bg-round{--divider-pattern-repeat:round}.rtl .elementor-widget-divider .elementor-divider__text{direction:rtl}.e-con-inner>.elementor-widget-divider,.e-con>.elementor-widget-divider{width:var(--container-widget-width,100%);--flex-grow:var(--container-widget-flex-grow)}</style>		<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-4c4343d elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="4c4343d" data-element_type="section" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-8b37a97" data-id="8b37a97" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-d1fb9a5 headTrat elementor-widget elementor-widget-heading" data-id="d1fb9a5" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default"><a href="/promociones/">Promociones</a></h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6196d02 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="6196d02" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<a href="/promociones/">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Promociones vigentes</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="/terminos-y-condiciones-promociones/">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Términos y condiciones</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="/politica-de-privacidad-dentalia/">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Política de privacidad</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="/terminos-y-condiciones-referidos/">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Programa de referidos</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-5dc89f5" data-id="5dc89f5" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-b090dc0 headTrat elementor-widget elementor-widget-heading" data-id="b090dc0" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Contáctanos</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a9b4d48 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="a9b4d48" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<a href="/clinica">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Clínicas</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="/tipo-de-tratamiento/tratamientos-clinicos-dentalia/">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Tratamientos</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="/trabajaconnosotros-dentalia">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Sé parte de dentalia</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://sdi.dentalia.com.mx/facturacion/dentalia">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Facturación</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-c78191b" data-id="c78191b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-58942fc headTrat elementor-widget elementor-widget-heading" data-id="58942fc" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default"><a href="/cobertura-dental-dentalia">Cobertura dental</a></h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-311ad95 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="311ad95" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<a href="/planes-dentales-empresas/">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Empresas</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="/cobertura-dental-1/">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Consulta tus beneficios</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-d538c37" data-id="d538c37" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-1f2430a headTrat elementor-widget elementor-widget-heading" data-id="1f2430a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Conoce más</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-95a7f4b elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="95a7f4b" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<a href="/dentalia-un-concepto-innovador-en-clinicas-dentales/">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Un concepto innovador en clínicas dentales.</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="/tu-experiencia-en-dentalia/">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Tu experiencia en dentalia.</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="/evaluatusaluddental-dentalia/">
+
+												<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-circle"></i>						</span>
+										<span class="elementor-icon-list-text">Evalúa tu salud dental para prevenir.</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-9b750aa elementor-section-full_width elementor-hidden-tablet elementor-hidden-mobile dividerFooter elementor-section-height-default elementor-section-height-default" data-id="9b750aa" data-element_type="section" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-44a542d" data-id="44a542d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2661c9f elementor-widget elementor-widget-spacer" data-id="2661c9f" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.13.1 - 09-05-2023 */
+.elementor-column .elementor-spacer-inner{height:var(--spacer-size)}.e-con{--container-widget-width:100%}.e-con-inner>.elementor-widget-spacer,.e-con>.elementor-widget-spacer{width:var(--container-widget-width,var(--spacer-size));--align-self:var(--container-widget-align-self,initial);--flex-shrink:0}.e-con-inner>.elementor-widget-spacer>.elementor-widget-container,.e-con-inner>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer,.e-con>.elementor-widget-spacer>.elementor-widget-container,.e-con>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer{height:100%}.e-con-inner>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer>.elementor-spacer-inner,.e-con>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer>.elementor-spacer-inner{height:var(--container-widget-height,var(--spacer-size))}</style>		<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-d534b02 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="d534b02" data-element_type="section" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f6c0591 elementor-hidden-mobile" data-id="f6c0591" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-a2285e3 elementor-align-right elementor-icon-list--layout-inline elementor-hidden-mobile elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="a2285e3" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items elementor-inline-items">
+							<li class="elementor-icon-list-item elementor-inline-item">
+										<span class="elementor-icon-list-text">Clave de autorización COFEPRIS: 213300201A1384<br>Responsable sanitario: <br>Lorena Guadalupe Badial Ochoa / Universidad Autónoma de Guadalajara / Cédula No. 2063153</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-f068393 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="f068393" data-element_type="section" data-settings="{&quot;jet_parallax_layout_list&quot;:[],&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d417035 elementor-hidden-widescreen elementor-hidden-desktop elementor-hidden-laptop elementor-hidden-tablet" data-id="d417035" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-bfb88ad elementor-align-right elementor-icon-list--layout-inline elementor-mobile-align-left elementor-hidden-widescreen elementor-hidden-desktop elementor-hidden-laptop elementor-hidden-tablet elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="bfb88ad" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items elementor-inline-items">
+							<li class="elementor-icon-list-item elementor-inline-item">
+										<span class="elementor-icon-list-text">Clave de autorización COFEPRIS: 213300201A1384<br>Responsable sanitario: <br>Lorena Guadalupe Badial Ochoa   /
+Universidad Autónoma de Guadalajara   /
+Cédula No. 2063153</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+		
+<!-- <script>
+    window.onload = function() {
+
+        new SigmaChat({
+
+          headline: '¡Bienvenido al chat de Dentalia! <br> Por favor proporcióname los siguientes datos para brindarte una mejor atención',
+
+          logo: {src: 'https://sigmadentalia.nuvetoapps.com.br/dist/img/logo2020.png', height: '100px'},
+
+          icon: {src: 'https://sigmadentalia.nuvetoapps.com.br/dist/img/logo-dentalia.png', height: '50px'},
+
+          links: [],
+
+          phone: { code: '+52', pattern:"[0-9]{2,3} [0-9]{4} [0-9]{4}", title: "Formato valido: 99 9999 9999 | 999 9999 9999", maskOptions: { mask: [{mask:'00 0000 0000'}, {mask: '000 0000 0000'}]}},
+
+          fields: [
+
+          ],
+
+          lang: {url: 'es', assistance: 'Dentalia'}
+
+        });
+
+    };
+</script> -->
+		
+				
+				
+		<script type="text/html" id="tmpl-jet-ajax-search-results-item">
+<div class="jet-ajax-search__results-item">
+	<a class="jet-ajax-search__item-link" href="{{{data.link}}}" target="{{{data.link_target_attr}}}">
+		{{{data.thumbnail}}}
+		<div class="jet-ajax-search__item-content-wrapper">
+			{{{data.before_title}}}
+			<div class="jet-ajax-search__item-title">{{{data.title}}}</div>
+			{{{data.after_title}}}
+			{{{data.before_content}}}
+			<div class="jet-ajax-search__item-content">{{{data.content}}}</div>
+			{{{data.after_content}}}
+			{{{data.rating}}}
+			{{{data.price}}}
+		</div>
+	</a>
+</div>
+</script><link rel="stylesheet" id="elementor-post-1872-css" href="https://dentalia.com/wp-content/uploads/elementor/css/post-1872.css?ver=1704390402" media="all">
+<link rel="stylesheet" id="elementor-post-6200-css" href="https://dentalia.com/wp-content/uploads/elementor/css/post-6200.css?ver=1707330458" media="all">
+<link rel="stylesheet" id="e-animations-css" href="https://dentalia.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.13.1" media="all">
+<link rel="stylesheet" id="google-fonts-2-css" href="https://fonts.googleapis.com/css?family=Montserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=swap&amp;ver=6.2.4" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="https://dentalia.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0" media="all">
+<link rel="stylesheet" id="jet-smart-filters-css" href="https://dentalia.com/wp-content/plugins/jet-smart-filters/assets/css/public.css?ver=3.1.0" media="all">
+<style id="jet-smart-filters-inline-css">
+
+				.jet-filter {
+					--tabindex-color: #0085f2;
+					--tabindex-shadow-color: rgba(0,133,242,0.4);
+				}
+			
+</style>
+<script src="https://dentalia.com/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
+<script id="wp-util-js-extra">
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+</script>
+<script src="https://dentalia.com/wp-includes/js/wp-util.min.js?ver=6.2.4" id="wp-util-js"></script>
+<script src="https://dentalia.com/wp-content/plugins/jet-search/assets/lib/chosen/chosen.jquery.min.js?ver=1.8.7" id="jquery-chosen-js"></script>
+<script id="jet-search-js-extra">
+var jetSearchSettings = {"ajaxurl":"https:\/\/dentalia.com\/wp-admin\/admin-ajax.php","action":"jet_ajax_search","nonce":"e541f87ed4","sumbitOnEnter":"1"};
+</script>
+<script src="https://dentalia.com/wp-content/plugins/jet-search/assets/js/jet-search.js?ver=3.0.3" id="jet-search-js"></script>
+<script src="https://dentalia.com/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=1.0.0" id="hello-theme-frontend-js"></script>
+<script src="https://dentalia.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1" id="smartmenus-js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA78cJxZOhUOAnoNehx-TrG0xQeSgIU2Yk&amp;callback=Function.prototype&amp;ver=6.2.4" id="jet-engine-google-maps-api-js"></script>
+<script src="https://dentalia.com/wp-content/plugins/jet-engine/includes/modules/maps-listings/assets/lib/markerclustererplus/markerclustererplus.min.js?ver=3.1.3.1" id="jet-markerclustererplus-js"></script>
+<script src="https://dentalia.com/wp-content/plugins/jet-engine/includes/modules/maps-listings/assets/js/public/google-maps.js?ver=3.1.3.1" id="jet-google-map-provider-js"></script>
+<script src="https://dentalia.com/wp-content/plugins/jet-engine/assets/lib/jet-plugins/jet-plugins.js?ver=1.1.0" id="jet-plugins-js"></script>
+<script id="jet-maps-listings-js-extra">
+var JetEngineMapData = [];
+</script>
+<script src="https://dentalia.com/wp-content/plugins/jet-engine/includes/modules/maps-listings/assets/js/frontend-maps.js?ver=3.1.3.1" id="jet-maps-listings-js"></script>
+<script id="jet-engine-frontend-js-extra">
+var JetEngineSettings = {"ajaxurl":"https:\/\/dentalia.com\/wp-admin\/admin-ajax.php","ajaxlisting":"https:\/\/dentalia.com\/clinica\/?nocache=1712166842","restNonce":"af9e48a979","hoverActionTimeout":"400"};
+</script>
+<script id="jet-engine-frontend-js-before">
+			window.JetEngineStores = window.JetEngineStores || {};
+			window.JetEngineStores['local-storage'] = {
+				addToStore: function( storeSlug, postID, maxSize, isOnViewStore ) {
+					
+		var store = window.localStorage.getItem( 'jet_engine_store_' + storeSlug );
+		isOnViewStore = isOnViewStore || false;
+
+		if ( store ) {
+			store = store.split( ',' );
+		} else {
+			store = [];
+		}
+
+		postID = '' + postID;
+
+		maxSize = parseInt( maxSize, 10 );
+
+		if ( 0 <= store.indexOf( postID ) ) {
+			return store.length;
+		}
+
+		if ( 0 < maxSize && store.length >= maxSize ) {
+			
+			if ( isOnViewStore ) {
+				store.splice( 0, 1 );
+			} else {
+				alert( 'You can`t add more posts' );
+				return false;
+			}
+		
+		}
+
+		store.push( postID );
+
+		window.localStorage.setItem( 'jet_engine_store_' + storeSlug, store.join( ',' ) );
+
+		return store.length;
+
+		
+				},
+				remove: function( storeSlug, postID ) {
+					
+		var store = window.localStorage.getItem( 'jet_engine_store_' + storeSlug ),
+			index;
+
+		if ( store ) {
+			store = store.split( ',' );
+		} else {
+			store = [];
+		}
+
+		postID = '' + postID;
+
+		index = store.indexOf( postID );
+
+		if ( 0 > index ) {
+			return store.length;
+		} else {
+			store.splice( index, 1 );
+		}
+
+		window.localStorage.setItem( 'jet_engine_store_' + storeSlug, store.join( ',' ) );
+
+		return store.length;
+
+		
+				},
+				inStore: function( storeSlug, postID ) {
+					
+		var store = window.localStorage.getItem( 'jet_engine_store_' + storeSlug ),
+			index;
+
+		postID = '' + postID;
+
+		if ( store ) {
+			store = store.split( ',' );
+		} else {
+			store = [];
+		}
+
+		index = store.indexOf( postID );
+
+		return ( 0 <= index );
+
+		
+				},
+				getStore: function( storeSlug ) {
+					
+		var store = window.localStorage.getItem( 'jet_engine_store_' + storeSlug ),
+			index;
+
+		if ( store ) {
+			store = store.split( ',' );
+		} else {
+			store = [];
+		}
+
+		return store;
+
+		
+				},
+			};
+</script>
+<script src="https://dentalia.com/wp-content/plugins/jet-engine/assets/js/frontend.js?ver=3.1.3.1" id="jet-engine-frontend-js"></script>
+<script src="https://dentalia.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.12.1" id="elementor-pro-webpack-runtime-js"></script>
+<script src="https://dentalia.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.13.1" id="elementor-webpack-runtime-js"></script>
+<script src="https://dentalia.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.13.1" id="elementor-frontend-modules-js"></script>
+<script src="https://dentalia.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
+<script src="https://dentalia.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11" id="regenerator-runtime-js"></script>
+<script src="https://dentalia.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script src="https://dentalia.com/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5" id="wp-hooks-js"></script>
+<script src="https://dentalia.com/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script id="elementor-pro-frontend-js-before">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/dentalia.com\/wp-admin\/admin-ajax.php","nonce":"d242d84b43","urls":{"assets":"https:\/\/dentalia.com\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/dentalia.com\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"es_MX","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/dentalia.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script src="https://dentalia.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.12.1" id="elementor-pro-frontend-js"></script>
+<script src="https://dentalia.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2" id="elementor-waypoints-js"></script>
+<script src="https://dentalia.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":true},"widescreen":{"label":"Widescreen","value":1900,"default_value":2400,"direction":"min","is_enabled":true}}},"version":"3.13.1","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"additional_custom_breakpoints":true,"e_swiper_latest":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"landing-pages":true,"page-transitions":true,"notes":true,"loop":true,"form-submissions":true,"e_scroll_snap":true},"urls":{"assets":"https:\/\/dentalia.com\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper","settings":{"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet","viewport_laptop","viewport_widescreen"],"viewport_widescreen":1900,"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"title","hello_header_menu_layout":"horizontal","hello_footer_logo_type":"logo"},"post":{"id":0,"title":"| Cl\u00ednicas Dentales | Mejores Clinicas Dentales | \u00a1Agenda Ahora!","excerpt":""}};
+</script>
+<script src="https://dentalia.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.13.1" id="elementor-frontend-js"></script><span id="elementor-device-mode" class="elementor-screen-only"></span>
+<script src="https://dentalia.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.12.1" id="pro-elements-handlers-js"></script><svg style="display: none;" class="e-font-icon-svg-symbols"></svg>
+<script id="jet-elements-js-extra">
+var jetElements = {"ajaxUrl":"https:\/\/dentalia.com\/wp-admin\/admin-ajax.php","isMobile":"false","templateApiUrl":"https:\/\/dentalia.com\/wp-json\/jet-elements-api\/v1\/elementor-template","devMode":"false","messages":{"invalidMail":"Please specify a valid e-mail"}};
+</script>
+<script src="https://dentalia.com/wp-content/plugins/jet-elements/assets/js/jet-elements.min.js?ver=2.6.9" id="jet-elements-js"></script>
+<script id="jet-tabs-frontend-js-extra">
+var JetTabsSettings = {"ajaxurl":"https:\/\/dentalia.com\/wp-admin\/admin-ajax.php","isMobile":"false","templateApiUrl":"https:\/\/dentalia.com\/wp-json\/jet-tabs-api\/v1\/elementor-template","devMode":"false"};
+</script>
+<script src="https://dentalia.com/wp-content/plugins/jet-tabs/assets/js/jet-tabs-frontend.min.js?ver=2.1.21" id="jet-tabs-frontend-js"></script>
+<script src="https://dentalia.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.12.1" id="e-sticky-js"></script>
+<script src="https://dentalia.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.2" id="jquery-ui-datepicker-js"></script>
+<script id="jet-maps-listings-user-geolocation-js-extra">
+var JetMapListingGeolocationFilterData = {"initEvent":"jet-smart-filters\/before-init"};
+</script>
+<script src="https://dentalia.com/wp-content/plugins/jet-engine/includes/modules/maps-listings/assets/js/public/user-geolocation.js?ver=3.1.3.1" id="jet-maps-listings-user-geolocation-js"></script>
+<script id="jet-smart-filters-js-extra">
+var JetSmartFilterSettings = {"ajaxurl":"https:\/\/dentalia.com\/wp-admin\/admin-ajax.php","siteurl":"https:\/\/dentalia.com","sitepath":null,"baseurl":"\/clinica\/","selectors":{"epro-archive-products":{"selector":".elementor-widget-wc-archive-products .elementor-widget-container","action":"replace","inDepth":false,"idPrefix":"#"},"epro-archive":{"selector":".elementor-widget-archive-posts .elementor-widget-container","action":"replace","inDepth":false,"idPrefix":"#"},"epro-portfolio":{"selector":".elementor-widget-portfolio","action":"insert","inDepth":false,"idPrefix":"#"},"epro-posts":{"selector":".elementor-widget-posts .elementor-widget-container","action":"replace","inDepth":false,"idPrefix":"#"},"epro-products":{"selector":".elementor-widget-woocommerce-products .elementor-widget-container","action":"replace","inDepth":false,"idPrefix":"#"},"jet-engine-calendar":{"selector":".jet-listing-calendar","action":"replace","inDepth":true,"idPrefix":"#"},"jet-engine":{"selector":".jet-listing-grid.jet-listing","action":"replace","inDepth":true,"idPrefix":"#"},"jet-woo-products-grid":{"selector":".elementor-jet-woo-products.jet-woo-builder","action":"insert","inDepth":true,"idPrefix":"#"},"jet-woo-products-list":{"selector":".elementor-jet-woo-products-list.jet-woo-builder","action":"insert","inDepth":true,"idPrefix":"#"},"woocommerce-archive":{"selector":".jet-woo-products-wrapper","action":"insert","inDepth":false,"idPrefix":"#"},"woocommerce-shortcode":{"selector":"body .woocommerce[class*=\"columns\"]","action":"replace","inDepth":false,"idPrefix":"."},"jet-engine-maps":{"selector":".jet-map-listing","action":"insert","inDepth":true,"idPrefix":"#"}},"queries":{"jet-engine-maps":{"map":{"post_status":"publish","post_type":"clinicas","posts_per_page":"100","paged":"1","ignore_sticky_posts":"1"}}},"settings":{"jet-engine-maps":{"map":{"lisitng_id":"6640","address_field":"direccion","add_lat_lng":"","lat_lng_address_field":"","posts_num":100,"auto_center":"yes","max_zoom":15,"custom_center":"","custom_zoom":11,"zoom_control":"auto","zoom_controls":"true","fullscreen_control":"true","street_view_controls":"true","map_type_controls":"","posts_query":[{"_id":"593cb36","__dynamic__":[],"tax_query_taxonomy":"estados","tax_query_terms":"%current_terms|estados%{\"context\":\"default_object\"}"}],"meta_query_relation":"AND","tax_query_relation":"AND","hide_widget_if":"","popup_width":450,"popup_offset":40,"marker_type":"icon","marker_image":{"url":"","id":"","size":""},"marker_icon":{"value":"fas fa-map-marker-alt","library":"fa-solid"},"marker_label_type":"post_title","marker_label_field":"","marker_label_field_custom":"","marker_label_text":"","marker_label_format_cb":0,"marker_label_custom":"","marker_label_custom_output":"%s","marker_image_field":"","marker_image_field_custom":"","multiple_marker_types":"","multiple_markers":[],"marker_clustering":"true","popup_pin":"","popup_preloader":"","custom_query":"","custom_query_id":"10","labels_by_glossary":"","date_format":"F j, Y","num_dec_point":".","num_thousands_sep":",","human_time_diff_from_key":"","num_decimals":2,"zeroise_threshold":3,"proportion_divisor":10,"proportion_multiplier":5,"proportion_precision":0,"child_path":"","attachment_image_size":"full","thumbnail_add_permalink":"","related_list_is_single":"","related_list_is_linked":"yes","related_list_tag":"ul","multiselect_delimiter":", ","switcher_true":"","switcher_false":"","url_scheme":"","checklist_cols_num":1,"checklist_divider":"","user_data_to_get":"display_name"}}},"misc":{"week_start":"1","url_type":"plain"},"props":{"jet-engine-maps":{"map":{"found_posts":63,"max_num_pages":1,"page":1}}},"extra_props":[],"templates":{"active_filter":"\/% if ($label) { %\/\n\t<div class=\"jet-active-filter__label\">\/% $label %\/<span class=\"jet-active-filter__label-separator\">:<\/span><\/div>\n\/% } %\/\n\/% if ($value) { %\/\n\t<div class=\"jet-active-filter__val\">\/% $value %\/<\/div>\n\/% } %\/\n<div class=\"jet-active-filter__remove\">&times;<\/div>","active_tag":"\/% if ($label) { %\/\n\t<div class=\"jet-active-tag__label\">\/% $label %\/<span class=\"jet-active-tag__label-separator\">:<\/span><\/div>\n\/% } %\/\n\/% if ($value) { %\/\n\t<div class=\"jet-active-tag__val\">\/% $value %\/<\/div>\n\/% } %\/\n<div class=\"jet-active-tag__remove\">&times;<\/div>","pagination_item":"<div class=\"jet-filters-pagination__link\">\/% $value %\/<\/div>","pagination_item_dots":"<div class=\"jet-filters-pagination__dots\">&hellip;<\/div>"},"plugin_settings":{"use_tabindex":"false","use_url_aliases":false,"url_aliases":[]},"datePickerData":{"closeText":"Done","prevText":"Prev","nextText":"Next","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["Su","Mo","Tu","We","Th","Fr","Sa"],"weekHeader":"Wk"}};
+</script>
+<script src="https://dentalia.com/wp-content/plugins/jet-smart-filters/assets/js/public.js?ver=3.1.0" id="jet-smart-filters-js"></script>
+
+
+
+
+<script src="https://dentalia.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.0"></script></body></html>
